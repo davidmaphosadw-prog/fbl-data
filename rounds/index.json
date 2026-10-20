@@ -1,6 +1,12 @@
 {
- "updated": "2026-10-20 16:37 NZ",
+ "updated": "2026-10-20 17:43 NZ",
  "rounds": [
+  {
+   "tag": "2026-10-20-1739",
+   "file": "rounds/2026-10-20-1739.json",
+   "title": "FBL Pundit, Tue 20 Oct",
+   "stamp": "Tue 20 Oct 17:39 NZ"
+  },
   {
    "tag": "2026-10-20-1632",
    "file": "rounds/2026-10-20-1632.json",
