@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21 13:03 NZ",
+ "updated": "2026-10-21 13:16 NZ",
  "since": "2026-10-16",
  "min_games_to_act": 100,
  "headline": {
@@ -180,7 +180,10 @@
    "right": true,
    "exact": false,
    "goals": 6,
-   "over_chance": 0.805
+   "over_chance": 0.805,
+   "why": [
+    "Right: the model's pick (Paris Saint-Germain win) had 42%."
+   ]
   },
   {
    "ko_nz": "Wed 21 Oct 08:00",
@@ -194,7 +197,11 @@
    "right": true,
    "exact": false,
    "goals": 6,
-   "over_chance": 0.759
+   "over_chance": 0.759,
+   "why": [
+    "Right: the model's pick (Manchester City win) had 86%.",
+    "Goals well above forecast: 6 v 4.0 expected."
+   ]
   },
   {
    "ko_nz": "Wed 21 Oct 08:00",
@@ -208,7 +215,11 @@
    "right": true,
    "exact": false,
    "goals": 4,
-   "over_chance": 0.774
+   "over_chance": 0.774,
+   "why": [
+    "Right: the model's pick (Roma win) had 86%.",
+    "Penalty scored: Donyell Malen (Roma) 58'"
+   ]
   },
   {
    "ko_nz": "Wed 21 Oct 08:00",
@@ -222,7 +233,11 @@
    "right": false,
    "exact": false,
    "goals": 2,
-   "over_chance": 0.661
+   "over_chance": 0.661,
+   "why": [
+    "Wrong: the model had Atletico Madrid win at 49%; the actual result (draw) had 22%, an upset.",
+    "Red card: Morten Hjulmand (Atletico Madrid) 64'"
+   ]
   },
   {
    "ko_nz": "Wed 21 Oct 08:00",
@@ -236,7 +251,12 @@
    "right": true,
    "exact": false,
    "goals": 7,
-   "over_chance": 0.613
+   "over_chance": 0.613,
+   "why": [
+    "Right: the model's pick (Napoli win) had 53%.",
+    "Goals well above forecast: 7 v 3.2 expected.",
+    "Own goal: Odin Luras Bjortuft, goal to Napoli 88'"
+   ]
   },
   {
    "ko_nz": "Wed 21 Oct 08:00",
@@ -250,7 +270,11 @@
    "right": false,
    "exact": false,
    "goals": 1,
-   "over_chance": 0.638
+   "over_chance": 0.638,
+   "why": [
+    "Wrong: the model had Porto win at 67%; the actual result (away win) had 14%, a big upset.",
+    "Goals well below forecast: 1 v 3.2 expected."
+   ]
   },
   {
    "ko_nz": "Wed 21 Oct 08:00",
@@ -264,7 +288,11 @@
    "right": true,
    "exact": false,
    "goals": 7,
-   "over_chance": 0.655
+   "over_chance": 0.655,
+   "why": [
+    "Right: the model's pick (Liverpool win) had 60%.",
+    "Goals well above forecast: 7 v 3.4 expected."
+   ]
   },
   {
    "ko_nz": "Wed 21 Oct 07:45",
@@ -278,7 +306,11 @@
    "right": false,
    "exact": false,
    "goals": 2,
-   "over_chance": 0.531
+   "over_chance": 0.531,
+   "why": [
+    "Wrong: the model had Wolverhampton Wanderers win at 62%; the actual result (draw) had 22%, an upset.",
+    "Decided late: 1 goal(s) from the 85th minute changed the result"
+   ]
   },
   {
    "ko_nz": "Wed 21 Oct 05:45",
@@ -292,7 +324,11 @@
    "right": false,
    "exact": false,
    "goals": 4,
-   "over_chance": 0.636
+   "over_chance": 0.636,
+   "why": [
+    "Wrong: the model had Fenerbahce win at 65%; the actual result (draw) had 21%, an upset.",
+    "Decided late: 1 goal(s) from the 85th minute changed the result"
+   ]
   },
   {
    "ko_nz": "Wed 21 Oct 05:45",
@@ -306,7 +342,10 @@
    "right": true,
    "exact": false,
    "goals": 3,
-   "over_chance": 0.677
+   "over_chance": 0.677,
+   "why": [
+    "Right: the model's pick (Borussia Dortmund win) had 70%."
+   ]
   },
   {
    "ko_nz": "Tue 20 Oct 08:15",
@@ -320,7 +359,11 @@
    "right": false,
    "exact": false,
    "goals": 3,
-   "over_chance": 0.426
+   "over_chance": 0.426,
+   "why": [
+    "Wrong: the model had Sp Braga win at 60%; the actual result (away win) had 15%, a big upset.",
+    "Own goal: Diogo Martins Travassos, goal to Gil Vicente 72'"
+   ]
   },
   {
    "ko_nz": "Tue 20 Oct 08:00",
@@ -334,7 +377,10 @@
    "right": true,
    "exact": false,
    "goals": 4,
-   "over_chance": 0.605
+   "over_chance": 0.605,
+   "why": [
+    "Right: the model's pick (Tottenham win) had 66%."
+   ]
   },
   {
    "ko_nz": "Tue 20 Oct 08:00",
@@ -348,7 +394,11 @@
    "right": true,
    "exact": true,
    "goals": 2,
-   "over_chance": 0.345
+   "over_chance": 0.345,
+   "why": [
+    "Right: the model's pick (Draw) had 36%.",
+    "Red card: Dakonam Ortega Djené (Getafe) 28'"
+   ]
   },
   {
    "ko_nz": "Tue 20 Oct 07:45",
@@ -362,7 +412,10 @@
    "right": true,
    "exact": false,
    "goals": 3,
-   "over_chance": 0.391
+   "over_chance": 0.391,
+   "why": [
+    "Right: the model's pick (Torino win) had 35%."
+   ]
   },
   {
    "ko_nz": "Tue 20 Oct 05:30",
@@ -376,7 +429,10 @@
    "right": true,
    "exact": false,
    "goals": 4,
-   "over_chance": 0.44
+   "over_chance": 0.44,
+   "why": [
+    "Right: the model's pick (Monza win) had 44%."
+   ]
   },
   {
    "ko_nz": "Mon 19 Oct 08:00",
@@ -390,7 +446,11 @@
    "right": true,
    "exact": false,
    "goals": 5,
-   "over_chance": 0.687
+   "over_chance": 0.687,
+   "why": [
+    "Right: the model's pick (Real Madrid win) had 76%.",
+    "Penalty scored: K. Mbappe (Real Madrid) 63'"
+   ]
   },
   {
    "ko_nz": "Mon 19 Oct 07:45",
@@ -404,7 +464,11 @@
    "right": true,
    "exact": false,
    "goals": 3,
-   "over_chance": 0.576
+   "over_chance": 0.576,
+   "why": [
+    "Right: the model's pick (Lyon win) had 56%.",
+    "Red card: Keito Nakamura (Lyon) 70'"
+   ]
   },
   {
    "ko_nz": "Mon 19 Oct 07:45",
@@ -418,7 +482,10 @@
    "right": false,
    "exact": false,
    "goals": 3,
-   "over_chance": 0.493
+   "over_chance": 0.493,
+   "why": [
+    "Wrong: the model had Juventus win at 58%; the actual result (away win) had 16%, an upset."
+   ]
   },
   {
    "ko_nz": "Mon 19 Oct 05:30",
@@ -432,7 +499,11 @@
    "right": true,
    "exact": false,
    "goals": 7,
-   "over_chance": 0.523
+   "over_chance": 0.523,
+   "why": [
+    "Right: the model's pick (Real Sociedad win) had 45%.",
+    "Goals well above forecast: 7 v 2.8 expected."
+   ]
   },
   {
    "ko_nz": "Mon 19 Oct 05:00",
@@ -446,7 +517,13 @@
    "right": true,
    "exact": false,
    "goals": 5,
-   "over_chance": 0.573
+   "over_chance": 0.573,
+   "why": [
+    "Right: the model's pick (AC Milan win) had 53%.",
+    "Goals well above forecast: 5 v 3.0 expected.",
+    "Penalty scored: G. Ramos (AC Milan) 24'",
+    "Penalty missed: Gonçalo Ramos (AC Milan) 57'"
+   ]
   },
   {
    "ko_nz": "Mon 19 Oct 04:30",
@@ -460,7 +537,10 @@
    "right": true,
    "exact": true,
    "goals": 1,
-   "over_chance": 0.497
+   "over_chance": 0.497,
+   "why": [
+    "Right: the model's pick (Arsenal win) had 58%."
+   ]
   },
   {
    "ko_nz": "Mon 19 Oct 04:30",
@@ -474,7 +554,10 @@
    "right": true,
    "exact": true,
    "goals": 3,
-   "over_chance": 0.708
+   "over_chance": 0.708,
+   "why": [
+    "Right: the model's pick (Hoffenheim win) had 44%."
+   ]
   },
   {
    "ko_nz": "Mon 19 Oct 04:15",
@@ -488,7 +571,15 @@
    "right": true,
    "exact": false,
    "goals": 7,
-   "over_chance": 0.549
+   "over_chance": 0.549,
+   "why": [
+    "Right: the model's pick (Paris FC win) had 41%.",
+    "Goals well above forecast: 7 v 3.0 expected.",
+    "Penalty scored: E. Lepaul (Rennes) 29'",
+    "Penalty scored: E. Lepaul (Rennes) 74'",
+    "Penalty scored: E. Lepaul (Rennes) 88'",
+    "Penalty scored: L. Sinayoko (Paris FC) 90'"
+   ]
   },
   {
    "ko_nz": "Mon 19 Oct 04:15",
@@ -502,7 +593,11 @@
    "right": false,
    "exact": false,
    "goals": 1,
-   "over_chance": 0.476
+   "over_chance": 0.476,
+   "why": [
+    "Wrong: the model had Monaco win at 45%; the actual result (home win) had 27%, an upset.",
+    "Penalty scored: N. Cadiou (Lorient) 61'"
+   ]
   },
   {
    "ko_nz": "Mon 19 Oct 04:15",
@@ -516,7 +611,10 @@
    "right": false,
    "exact": false,
    "goals": 4,
-   "over_chance": 0.494
+   "over_chance": 0.494,
+   "why": [
+    "Wrong: the model had Le Havre win at 42%; the actual result (away win) had 31%, a close call."
+   ]
   },
   {
    "ko_nz": "Mon 19 Oct 03:15",
@@ -530,7 +628,10 @@
    "right": true,
    "exact": false,
    "goals": 3,
-   "over_chance": 0.442
+   "over_chance": 0.442,
+   "why": [
+    "Right: the model's pick (Celta Vigo win) had 44%."
+   ]
   },
   {
    "ko_nz": "Mon 19 Oct 02:30",
@@ -544,7 +645,10 @@
    "right": true,
    "exact": true,
    "goals": 3,
-   "over_chance": 0.674
+   "over_chance": 0.674,
+   "why": [
+    "Right: the model's pick (Bayer Leverkusen win) had 55%."
+   ]
   },
   {
    "ko_nz": "Mon 19 Oct 02:00",
@@ -558,7 +662,10 @@
    "right": true,
    "exact": false,
    "goals": 4,
-   "over_chance": 0.58
+   "over_chance": 0.58,
+   "why": [
+    "Right: the model's pick (Como win) had 45%."
+   ]
   },
   {
    "ko_nz": "Mon 19 Oct 02:00",
@@ -572,7 +679,11 @@
    "right": true,
    "exact": false,
    "goals": 5,
-   "over_chance": 0.616
+   "over_chance": 0.616,
+   "why": [
+    "Right: the model's pick (Brighton win) had 61%.",
+    "Own goal: J. Canvot, goal to Brighton 4'"
+   ]
   },
   {
    "ko_nz": "Mon 19 Oct 02:00",
@@ -586,7 +697,10 @@
    "right": false,
    "exact": false,
    "goals": 2,
-   "over_chance": 0.565
+   "over_chance": 0.565,
+   "why": [
+    "Wrong: the model had Leeds United win at 42%; the actual result (draw) had 27%, an upset."
+   ]
   },
   {
    "ko_nz": "Mon 19 Oct 02:00",
@@ -600,7 +714,13 @@
    "right": true,
    "exact": false,
    "goals": 7,
-   "over_chance": 0.601
+   "over_chance": 0.601,
+   "why": [
+    "Right: the model's pick (Marseille win) had 46%.",
+    "Goals well above forecast: 7 v 3.0 expected.",
+    "Penalty missed: Amine Gouiri (Marseille) 59'",
+    "Penalty scored: A. El Ouazzani (Angers) 75'"
+   ]
   },
   {
    "ko_nz": "Mon 19 Oct 02:00",
@@ -614,7 +734,11 @@
    "right": true,
    "exact": false,
    "goals": 2,
-   "over_chance": 0.54
+   "over_chance": 0.54,
+   "why": [
+    "Right: the model's pick (Bournemouth win) had 45%.",
+    "Red card: Kevin Danso (Sunderland) 17'"
+   ]
   },
   {
    "ko_nz": "Mon 19 Oct 01:00",
@@ -628,7 +752,11 @@
    "right": true,
    "exact": false,
    "goals": 2,
-   "over_chance": 0.596
+   "over_chance": 0.596,
+   "why": [
+    "Right: the model's pick (Osasuna win) had 50%.",
+    "Penalty scored: A. Budimir (Osasuna) 9'"
+   ]
   },
   {
    "ko_nz": "Sun 18 Oct 23:30",
@@ -642,7 +770,10 @@
    "right": false,
    "exact": false,
    "goals": 3,
-   "over_chance": 0.463
+   "over_chance": 0.463,
+   "why": [
+    "Wrong: the model had Udinese win at 53%; the actual result (away win) had 20%, an upset."
+   ]
   },
   {
    "ko_nz": "Sun 18 Oct 08:00",
@@ -656,7 +787,12 @@
    "right": false,
    "exact": false,
    "goals": 0,
-   "over_chance": 0.504
+   "over_chance": 0.504,
+   "why": [
+    "Wrong: the model had Athletic Bilbao win at 45%; the actual result (draw) had 26%, an upset.",
+    "Goals well below forecast: 0 v 2.7 expected.",
+    "Lesson: The frozen analyst card already said 1-1, which conflicted with an Over 2.5 leg at 2.10. A goals leg needs the chance of the goals line itself."
+   ]
   },
   {
    "ko_nz": "Sun 18 Oct 07:45",
@@ -670,7 +806,10 @@
    "right": true,
    "exact": false,
    "goals": 2,
-   "over_chance": 0.529
+   "over_chance": 0.529,
+   "why": [
+    "Right: the model's pick (Roma win) had 66%."
+   ]
   },
   {
    "ko_nz": "Sun 18 Oct 07:45",
@@ -684,7 +823,11 @@
    "right": true,
    "exact": false,
    "goals": 4,
-   "over_chance": 0.568
+   "over_chance": 0.568,
+   "why": [
+    "Right: the model's pick (Lens win) had 51%.",
+    "Own goal: A. Monfray, goal to Lens 13'"
+   ]
   },
   {
    "ko_nz": "Sun 18 Oct 07:45",
@@ -698,7 +841,12 @@
    "right": false,
    "exact": false,
    "goals": 2,
-   "over_chance": 0.565
+   "over_chance": 0.565,
+   "why": [
+    "Wrong: the model had Lille win at 51%; the actual result (draw) had 26%, an upset.",
+    "Penalty scored: O. Giroud (Lille) 64'",
+    "Lesson: A normal loss for a marginal candidate; not a reason to drop home favourites."
+   ]
   },
   {
    "ko_nz": "Sun 18 Oct 05:30",
@@ -712,7 +860,12 @@
    "right": true,
    "exact": false,
    "goals": 7,
-   "over_chance": 0.778
+   "over_chance": 0.778,
+   "why": [
+    "Right: the model's pick (Bayern Munich win) had 78%.",
+    "Goals well above forecast: 7 v 4.1 expected.",
+    "Lesson: Winner right, exact score wrong. A 79% win chance is not a 79% chance of 3-1; correct-score bets need the score's own chance (about 9 to 10% for 3-1 here)."
+   ]
   },
   {
    "ko_nz": "Sun 18 Oct 05:30",
@@ -726,8 +879,303 @@
    "right": false,
    "exact": false,
    "goals": 1,
-   "over_chance": 0.57
+   "over_chance": 0.57,
+   "why": [
+    "Wrong: the model had Newcastle United win at 43%; the actual result (away win) had 34%, a close call.",
+    "Lesson: A speculative 2-2 never established the 64% Over 2.5 chance the 1.57 price needed."
+   ]
+  },
+  {
+   "ko_nz": "Sun 18 Oct 05:30",
+   "league": "La Liga",
+   "match": "Real Betis v Barcelona",
+   "pick": "Barcelona win",
+   "chance": 0.64,
+   "label": "Swing",
+   "called": "1-2",
+   "actual": "2-5",
+   "right": true,
+   "exact": false,
+   "goals": 7,
+   "over_chance": 0.692,
+   "why": [
+    "Right: the model's pick (Barcelona win) had 64%.",
+    "Goals well above forecast: 7 v 3.5 expected.",
+    "Red card: Facundo Bernal (Real Betis) 54'"
+   ]
+  },
+  {
+   "ko_nz": "Sun 18 Oct 05:00",
+   "league": "Serie A",
+   "match": "Bologna v Inter",
+   "pick": "Inter win",
+   "chance": 0.588,
+   "label": "Swing",
+   "called": "0-2",
+   "actual": "1-3",
+   "right": true,
+   "exact": false,
+   "goals": 4,
+   "over_chance": 0.528,
+   "why": [
+    "Right: the model's pick (Inter win) had 59%."
+   ]
+  },
+  {
+   "ko_nz": "Sun 18 Oct 04:15",
+   "league": "Ligue 1",
+   "match": "Strasbourg v Paris Saint-Germain",
+   "pick": "Paris Saint-Germain win",
+   "chance": 0.667,
+   "label": "Swing",
+   "called": "1-2",
+   "actual": "1-3",
+   "right": true,
+   "exact": false,
+   "goals": 4,
+   "over_chance": 0.67,
+   "why": [
+    "Right: the model's pick (Paris Saint-Germain win) had 67%.",
+    "Penalty missed: Ousmane Dembélé (Paris Saint-Germain) 72'",
+    "Decided late: 2 goal(s) from the 85th minute changed the result"
+   ]
+  },
+  {
+   "ko_nz": "Sun 18 Oct 03:15",
+   "league": "La Liga",
+   "match": "Villarreal v Elche",
+   "pick": "Villarreal win",
+   "chance": 0.65,
+   "label": "Swing",
+   "called": "2-0",
+   "actual": "0-0",
+   "right": false,
+   "exact": false,
+   "goals": 0,
+   "over_chance": 0.627,
+   "why": [
+    "Wrong: the model had Villarreal win at 65%; the actual result (draw) had 20%, an upset.",
+    "Goals well below forecast: 0 v 3.3 expected.",
+    "Lesson: The 1.40 price needed 71% but the model had 65%. A plausible favourite can still be a pass on price."
+   ]
+  },
+  {
+   "ko_nz": "Sun 18 Oct 03:00",
+   "league": "EPL",
+   "match": "Brentford v Liverpool",
+   "pick": "Brentford win",
+   "chance": 0.437,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "1-2",
+   "right": false,
+   "exact": false,
+   "goals": 3,
+   "over_chance": 0.533,
+   "why": [
+    "Wrong: the model had Brentford win at 44%; the actual result (away win) had 30%, a close call.",
+    "Red card: Yehor Yarmoliuk (Brentford) 45+8'",
+    "Red card: Vitaly Janelt (Brentford) 90+2'"
+   ]
+  },
+  {
+   "ko_nz": "Sun 18 Oct 03:00",
+   "league": "EPL",
+   "match": "Fulham v Hull City",
+   "pick": "Fulham win",
+   "chance": 0.611,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "1-0",
+   "right": true,
+   "exact": false,
+   "goals": 1,
+   "over_chance": 0.555,
+   "why": [
+    "Right: the model's pick (Fulham win) had 61%.",
+    "Red card: Ryan Sessegnon (Fulham) 90+4'"
+   ]
+  },
+  {
+   "ko_nz": "Sun 18 Oct 03:00",
+   "league": "EPL",
+   "match": "Manchester City v Ipswich Town",
+   "pick": "Manchester City win",
+   "chance": 0.751,
+   "label": "Banker",
+   "called": "2-1",
+   "actual": "3-2",
+   "right": true,
+   "exact": false,
+   "goals": 5,
+   "over_chance": 0.681,
+   "why": [
+    "Right: the model's pick (Manchester City win) had 75%.",
+    "Penalty scored: Z. Flemming (Ipswich Town) 90'"
+   ]
+  },
+  {
+   "ko_nz": "Sun 18 Oct 02:30",
+   "league": "Bundesliga",
+   "match": "Hamburg v VfB Stuttgart",
+   "pick": "VfB Stuttgart win",
+   "chance": 0.537,
+   "label": "Swing",
+   "called": "1-2",
+   "actual": "1-0",
+   "right": false,
+   "exact": false,
+   "goals": 1,
+   "over_chance": 0.614,
+   "why": [
+    "Wrong: the model had VfB Stuttgart win at 54%; the actual result (home win) had 23%, an upset.",
+    "Goals well below forecast: 1 v 3.2 expected.",
+    "Decided late: 1 goal(s) from the 85th minute changed the result"
+   ]
+  },
+  {
+   "ko_nz": "Sun 18 Oct 02:30",
+   "league": "Bundesliga",
+   "match": "Union Berlin v Borussia Dortmund",
+   "pick": "Borussia Dortmund win",
+   "chance": 0.601,
+   "label": "Swing",
+   "called": "1-2",
+   "actual": "0-0",
+   "right": false,
+   "exact": false,
+   "goals": 0,
+   "over_chance": 0.621,
+   "why": [
+    "Wrong: the model had Borussia Dortmund win at 60%; the actual result (draw) had 21%, an upset.",
+    "Goals well below forecast: 0 v 3.2 expected.",
+    "Lesson: Goals conceded did not prove Union would play open. Ask whether the underdog can hold its block at 0-0 and whether the favourite can create centrally. 60% also failed the 62.5% the 1.60 price needed."
+   ]
+  },
+  {
+   "ko_nz": "Sun 18 Oct 02:30",
+   "league": "Bundesliga",
+   "match": "Elversberg v Augsburg",
+   "pick": "Elversberg win",
+   "chance": 0.381,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "4-3",
+   "right": true,
+   "exact": false,
+   "goals": 7,
+   "over_chance": 0.566,
+   "why": [
+    "Right: the model's pick (Elversberg win) had 38%.",
+    "Goals well above forecast: 7 v 3.0 expected.",
+    "Penalty missed: Lukas Petkov (Elversberg) 4'",
+    "Penalty scored: F. Rieder (Augsburg) 45'",
+    "Penalty scored: M. Gregoritsch (Augsburg) 76'",
+    "Penalty missed: Noel Futkeu (Elversberg) 90+8'"
+   ]
+  },
+  {
+   "ko_nz": "Sun 18 Oct 02:30",
+   "league": "Bundesliga",
+   "match": "Schalke 04 v Mainz",
+   "pick": "Mainz win",
+   "chance": 0.428,
+   "label": "Swing",
+   "called": "1-2",
+   "actual": "0-1",
+   "right": true,
+   "exact": false,
+   "goals": 1,
+   "over_chance": 0.569,
+   "why": [
+    "Right: the model's pick (Mainz win) had 43%."
+   ]
+  },
+  {
+   "ko_nz": "Sun 18 Oct 02:30",
+   "league": "Bundesliga",
+   "match": "Werder Bremen v Paderborn",
+   "pick": "Werder Bremen win",
+   "chance": 0.545,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "2-2",
+   "right": false,
+   "exact": false,
+   "goals": 4,
+   "over_chance": 0.601,
+   "why": [
+    "Wrong: the model had Werder Bremen win at 55%; the actual result (draw) had 23%, an upset.",
+    "Penalty scored: N. Fullkrug (Werder Bremen) 65'"
+   ]
+  },
+  {
+   "ko_nz": "Sun 18 Oct 02:00",
+   "league": "Serie A",
+   "match": "Venezia v Napoli",
+   "pick": "Napoli win",
+   "chance": 0.539,
+   "label": "Swing",
+   "called": "0-2",
+   "actual": "1-0",
+   "right": false,
+   "exact": false,
+   "goals": 1,
+   "over_chance": 0.528,
+   "why": [
+    "Wrong: the model had Napoli win at 54%; the actual result (home win) had 20%, an upset.",
+    "Penalty missed: Kevin De Bruyne (Napoli) 68'",
+    "Lesson: Rotation and a European trip were known before kick-off and should have lowered the away case; the saved penalty was variance. Record the expected and actual attackers before keeping an away favourite."
+   ]
+  },
+  {
+   "ko_nz": "Sun 18 Oct 01:00",
+   "league": "La Liga",
+   "match": "Espanyol v Atletico Madrid",
+   "pick": "Atletico Madrid win",
+   "chance": 0.55,
+   "label": "Swing",
+   "called": "1-2",
+   "actual": "0-1",
+   "right": true,
+   "exact": false,
+   "goals": 1,
+   "over_chance": 0.543,
+   "why": [
+    "Right: the model's pick (Atletico Madrid win) had 55%.",
+    "Decided late: 1 goal(s) from the 85th minute changed the result"
+   ]
+  },
+  {
+   "ko_nz": "Sun 18 Oct 00:30",
+   "league": "EPL",
+   "match": "Everton v Chelsea",
+   "pick": "Chelsea win",
+   "chance": 0.414,
+   "label": "Swing",
+   "called": "1-2",
+   "actual": "0-2",
+   "right": true,
+   "exact": false,
+   "goals": 2,
+   "over_chance": 0.565,
+   "why": [
+    "Right: the model's pick (Chelsea win) had 41%.",
+    "Lesson: The 1-1 analyst revision did not earn its confidence; both doubtful Everton defenders started. Confirm the XI and keep a counter-case out of the main estimate."
+   ]
   }
  ],
+ "misses": {
+  "total": 19,
+  "red_card": 2,
+  "penalty": 4,
+  "late": 3,
+  "big_upset": 2,
+  "upset": 14,
+  "close": 3,
+  "goals_high": 10,
+  "goals_low": 5,
+  "with_lesson": 8
+ },
  "note": "Every game graded on two agreeing sources since 16 Oct 2026, with the pick frozen before kick-off. Below 100 games a gap is watched, not acted on; any model change needs David's approval. Log loss compares the model with the margin-free bookmaker prices: lower is better."
 }
