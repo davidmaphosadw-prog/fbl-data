@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23 17:03 NZ",
+ "updated": "2026-10-24 08:07 NZ",
  "since": "2026-10-16",
  "min_games_to_act": 100,
  "headline": {
@@ -171,6 +171,77 @@
   {
    "ko_nz": "Thu 22 Oct 08:00",
    "league": "CL",
+   "match": "Bayern Munich v Arsenal",
+   "pick": "Bayern Munich win",
+   "chance": 0.428,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "2-2",
+   "right": false,
+   "exact": false,
+   "goals": 4,
+   "over_chance": 0.601,
+   "why": [
+    "Wrong: the model had Bayern Munich win at 43%; the actual result (draw) had 26%, an upset.",
+    "Penalty scored: Harry Kane (Bayern Munich) 61'"
+   ]
+  },
+  {
+   "ko_nz": "Thu 22 Oct 08:00",
+   "league": "CL",
+   "match": "Inter v Shakhtar Donetsk",
+   "pick": "Inter win",
+   "chance": 0.806,
+   "label": "Banker",
+   "called": "3-0",
+   "actual": "1-0",
+   "right": true,
+   "exact": false,
+   "goals": 1,
+   "over_chance": 0.736,
+   "why": [
+    "Right: the model's pick (Inter win) had 81%.",
+    "Goals well below forecast: 1 v 3.8 expected.",
+    "Red card: Alessandro Bastoni (Inter) 68'"
+   ]
+  },
+  {
+   "ko_nz": "Thu 22 Oct 08:00",
+   "league": "CL",
+   "match": "Club Brugge v Lens",
+   "pick": "Club Brugge win",
+   "chance": 0.54,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "3-0",
+   "right": true,
+   "exact": false,
+   "goals": 3,
+   "over_chance": 0.715,
+   "why": [
+    "Right: the model's pick (Club Brugge win) had 54%."
+   ]
+  },
+  {
+   "ko_nz": "Thu 22 Oct 08:00",
+   "league": "CL",
+   "match": "Real Madrid v RB Leipzig",
+   "pick": "Real Madrid win",
+   "chance": 0.782,
+   "label": "Banker",
+   "called": "3-1",
+   "actual": "4-1",
+   "right": true,
+   "exact": false,
+   "goals": 5,
+   "over_chance": 0.825,
+   "why": [
+    "Right: the model's pick (Real Madrid win) had 78%."
+   ]
+  },
+  {
+   "ko_nz": "Thu 22 Oct 08:00",
+   "league": "CL",
    "match": "Sp Lisbon v LASK",
    "pick": "Sp Lisbon win",
    "chance": 0.771,
@@ -208,60 +279,6 @@
   {
    "ko_nz": "Thu 22 Oct 08:00",
    "league": "CL",
-   "match": "Inter v Shakhtar Donetsk",
-   "pick": "Inter win",
-   "chance": 0.806,
-   "label": "Banker",
-   "called": "3-0",
-   "actual": "1-0",
-   "right": true,
-   "exact": false,
-   "goals": 1,
-   "over_chance": 0.736,
-   "why": [
-    "Right: the model's pick (Inter win) had 81%.",
-    "Goals well below forecast: 1 v 3.8 expected.",
-    "Red card: Alessandro Bastoni (Inter) 68'"
-   ]
-  },
-  {
-   "ko_nz": "Thu 22 Oct 08:00",
-   "league": "CL",
-   "match": "Real Madrid v RB Leipzig",
-   "pick": "Real Madrid win",
-   "chance": 0.782,
-   "label": "Banker",
-   "called": "3-1",
-   "actual": "4-1",
-   "right": true,
-   "exact": false,
-   "goals": 5,
-   "over_chance": 0.825,
-   "why": [
-    "Right: the model's pick (Real Madrid win) had 78%."
-   ]
-  },
-  {
-   "ko_nz": "Thu 22 Oct 08:00",
-   "league": "CL",
-   "match": "Bayern Munich v Arsenal",
-   "pick": "Bayern Munich win",
-   "chance": 0.428,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "2-2",
-   "right": false,
-   "exact": false,
-   "goals": 4,
-   "over_chance": 0.601,
-   "why": [
-    "Wrong: the model had Bayern Munich win at 43%; the actual result (draw) had 26%, an upset.",
-    "Penalty scored: Harry Kane (Bayern Munich) 61'"
-   ]
-  },
-  {
-   "ko_nz": "Thu 22 Oct 08:00",
-   "league": "CL",
    "match": "Aston Villa v Viking FK",
    "pick": "Aston Villa win",
    "chance": 0.771,
@@ -276,23 +293,6 @@
     "Right: the model's pick (Aston Villa win) had 77%.",
     "Penalty scored: Emiliano Buendía (Aston Villa) 37'",
     "Own goal: Henrik Heggheim, goal to Aston Villa 62'"
-   ]
-  },
-  {
-   "ko_nz": "Thu 22 Oct 08:00",
-   "league": "CL",
-   "match": "Club Brugge v Lens",
-   "pick": "Club Brugge win",
-   "chance": 0.54,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "3-0",
-   "right": true,
-   "exact": false,
-   "goals": 3,
-   "over_chance": 0.715,
-   "why": [
-    "Right: the model's pick (Club Brugge win) had 54%."
    ]
   },
   {
@@ -317,6 +317,23 @@
   {
    "ko_nz": "Thu 22 Oct 05:45",
    "league": "CL",
+   "match": "Como v Manchester United",
+   "pick": "Como win",
+   "chance": 0.45,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "4-1",
+   "right": true,
+   "exact": false,
+   "goals": 5,
+   "over_chance": 0.647,
+   "why": [
+    "Right: the model's pick (Como win) had 45%."
+   ]
+  },
+  {
+   "ko_nz": "Thu 22 Oct 05:45",
+   "league": "CL",
    "match": "Lille v Galatasaray",
    "pick": "Lille win",
    "chance": 0.466,
@@ -331,23 +348,6 @@
     "Wrong: the model had Lille win at 47%; the actual result (away win) had 30%, an upset.",
     "Goals well above forecast: 6 v 3.1 expected.",
     "Own goal: Berke Özer, goal to Galatasaray 52'"
-   ]
-  },
-  {
-   "ko_nz": "Thu 22 Oct 05:45",
-   "league": "CL",
-   "match": "Como v Manchester United",
-   "pick": "Como win",
-   "chance": 0.45,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "4-1",
-   "right": true,
-   "exact": false,
-   "goals": 5,
-   "over_chance": 0.647,
-   "why": [
-    "Right: the model's pick (Como win) had 45%."
    ]
   },
   {
@@ -371,19 +371,37 @@
   {
    "ko_nz": "Wed 21 Oct 08:00",
    "league": "CL",
-   "match": "Porto v PSV",
-   "pick": "Porto win",
-   "chance": 0.667,
+   "match": "Manchester City v AEK Athens",
+   "pick": "Manchester City win",
+   "chance": 0.86,
+   "label": "Banker",
+   "called": "3-0",
+   "actual": "5-1",
+   "right": true,
+   "exact": false,
+   "goals": 6,
+   "over_chance": 0.759,
+   "why": [
+    "Right: the model's pick (Manchester City win) had 86%.",
+    "Goals well above forecast: 6 v 4.0 expected."
+   ]
+  },
+  {
+   "ko_nz": "Wed 21 Oct 08:00",
+   "league": "CL",
+   "match": "Liverpool v Villarreal",
+   "pick": "Liverpool win",
+   "chance": 0.604,
    "label": "Swing",
    "called": "2-1",
-   "actual": "0-1",
-   "right": false,
+   "actual": "4-3",
+   "right": true,
    "exact": false,
-   "goals": 1,
-   "over_chance": 0.638,
+   "goals": 7,
+   "over_chance": 0.655,
    "why": [
-    "Wrong: the model had Porto win at 67%; the actual result (away win) had 14%, a big upset.",
-    "Goals well below forecast: 1 v 3.2 expected."
+    "Right: the model's pick (Liverpool win) had 60%.",
+    "Goals well above forecast: 7 v 3.4 expected."
    ]
   },
   {
@@ -408,19 +426,19 @@
   {
    "ko_nz": "Wed 21 Oct 08:00",
    "league": "CL",
-   "match": "Liverpool v Villarreal",
-   "pick": "Liverpool win",
-   "chance": 0.604,
+   "match": "Porto v PSV",
+   "pick": "Porto win",
+   "chance": 0.667,
    "label": "Swing",
    "called": "2-1",
-   "actual": "4-3",
-   "right": true,
+   "actual": "0-1",
+   "right": false,
    "exact": false,
-   "goals": 7,
-   "over_chance": 0.655,
+   "goals": 1,
+   "over_chance": 0.638,
    "why": [
-    "Right: the model's pick (Liverpool win) had 60%.",
-    "Goals well above forecast: 7 v 3.4 expected."
+    "Wrong: the model had Porto win at 67%; the actual result (away win) had 14%, a big upset.",
+    "Goals well below forecast: 1 v 3.2 expected."
    ]
   },
   {
@@ -459,24 +477,6 @@
    ]
   },
   {
-   "ko_nz": "Wed 21 Oct 08:00",
-   "league": "CL",
-   "match": "Manchester City v AEK Athens",
-   "pick": "Manchester City win",
-   "chance": 0.86,
-   "label": "Banker",
-   "called": "3-0",
-   "actual": "5-1",
-   "right": true,
-   "exact": false,
-   "goals": 6,
-   "over_chance": 0.759,
-   "why": [
-    "Right: the model's pick (Manchester City win) had 86%.",
-    "Goals well above forecast: 6 v 4.0 expected."
-   ]
-  },
-  {
    "ko_nz": "Wed 21 Oct 07:45",
    "league": "Championship",
    "match": "Wolverhampton Wanderers v Portsmouth",
@@ -497,23 +497,6 @@
   {
    "ko_nz": "Wed 21 Oct 05:45",
    "league": "CL",
-   "match": "Sabah FK v Borussia Dortmund",
-   "pick": "Borussia Dortmund win",
-   "chance": 0.705,
-   "label": "Swing",
-   "called": "0-2",
-   "actual": "1-2",
-   "right": true,
-   "exact": false,
-   "goals": 3,
-   "over_chance": 0.677,
-   "why": [
-    "Right: the model's pick (Borussia Dortmund win) had 70%."
-   ]
-  },
-  {
-   "ko_nz": "Wed 21 Oct 05:45",
-   "league": "CL",
    "match": "Fenerbahce v Slavia Praha",
    "pick": "Fenerbahce win",
    "chance": 0.649,
@@ -527,6 +510,23 @@
    "why": [
     "Wrong: the model had Fenerbahce win at 65%; the actual result (draw) had 21%, an upset.",
     "Decided late: 1 goal(s) from the 85th minute changed the result"
+   ]
+  },
+  {
+   "ko_nz": "Wed 21 Oct 05:45",
+   "league": "CL",
+   "match": "Sabah FK v Borussia Dortmund",
+   "pick": "Borussia Dortmund win",
+   "chance": 0.705,
+   "label": "Swing",
+   "called": "0-2",
+   "actual": "1-2",
+   "right": true,
+   "exact": false,
+   "goals": 3,
+   "over_chance": 0.677,
+   "why": [
+    "Right: the model's pick (Borussia Dortmund win) had 70%."
    ]
   },
   {
@@ -636,23 +636,6 @@
   },
   {
    "ko_nz": "Mon 19 Oct 07:45",
-   "league": "Serie A",
-   "match": "Juventus v Lazio",
-   "pick": "Juventus win",
-   "chance": 0.581,
-   "label": "Swing",
-   "called": "1-0",
-   "actual": "0-3",
-   "right": false,
-   "exact": false,
-   "goals": 3,
-   "over_chance": 0.493,
-   "why": [
-    "Wrong: the model had Juventus win at 58%; the actual result (away win) had 16%, an upset."
-   ]
-  },
-  {
-   "ko_nz": "Mon 19 Oct 07:45",
    "league": "Ligue 1",
    "match": "Lyon v Nice",
    "pick": "Lyon win",
@@ -667,6 +650,23 @@
    "why": [
     "Right: the model's pick (Lyon win) had 56%.",
     "Red card: Keito Nakamura (Lyon) 70'"
+   ]
+  },
+  {
+   "ko_nz": "Mon 19 Oct 07:45",
+   "league": "Serie A",
+   "match": "Juventus v Lazio",
+   "pick": "Juventus win",
+   "chance": 0.581,
+   "label": "Swing",
+   "called": "1-0",
+   "actual": "0-3",
+   "right": false,
+   "exact": false,
+   "goals": 3,
+   "over_chance": 0.493,
+   "why": [
+    "Wrong: the model had Juventus win at 58%; the actual result (away win) had 16%, an upset."
    ]
   },
   {
@@ -744,6 +744,24 @@
   {
    "ko_nz": "Mon 19 Oct 04:15",
    "league": "Ligue 1",
+   "match": "Lorient v Monaco",
+   "pick": "Monaco win",
+   "chance": 0.446,
+   "label": "Swing",
+   "called": "0-1",
+   "actual": "1-0",
+   "right": false,
+   "exact": false,
+   "goals": 1,
+   "over_chance": 0.476,
+   "why": [
+    "Wrong: the model had Monaco win at 45%; the actual result (home win) had 27%, an upset.",
+    "Penalty scored: N. Cadiou (Lorient) 61'"
+   ]
+  },
+  {
+   "ko_nz": "Mon 19 Oct 04:15",
+   "league": "Ligue 1",
    "match": "Paris FC v Rennes",
    "pick": "Paris FC win",
    "chance": 0.406,
@@ -761,24 +779,6 @@
     "Penalty scored: E. Lepaul (Rennes) 74'",
     "Penalty scored: E. Lepaul (Rennes) 88'",
     "Penalty scored: L. Sinayoko (Paris FC) 90'"
-   ]
-  },
-  {
-   "ko_nz": "Mon 19 Oct 04:15",
-   "league": "Ligue 1",
-   "match": "Lorient v Monaco",
-   "pick": "Monaco win",
-   "chance": 0.446,
-   "label": "Swing",
-   "called": "0-1",
-   "actual": "1-0",
-   "right": false,
-   "exact": false,
-   "goals": 1,
-   "over_chance": 0.476,
-   "why": [
-    "Wrong: the model had Monaco win at 45%; the actual result (home win) had 27%, an upset.",
-    "Penalty scored: N. Cadiou (Lorient) 61'"
    ]
   },
   {
@@ -835,19 +835,36 @@
   {
    "ko_nz": "Mon 19 Oct 02:00",
    "league": "EPL",
-   "match": "Brighton v Crystal Palace",
-   "pick": "Brighton win",
-   "chance": 0.61,
+   "match": "Leeds United v Manchester United",
+   "pick": "Leeds United win",
+   "chance": 0.415,
    "label": "Swing",
    "called": "2-1",
-   "actual": "5-0",
+   "actual": "1-1",
+   "right": false,
+   "exact": false,
+   "goals": 2,
+   "over_chance": 0.565,
+   "why": [
+    "Wrong: the model had Leeds United win at 42%; the actual result (draw) had 27%, an upset."
+   ]
+  },
+  {
+   "ko_nz": "Mon 19 Oct 02:00",
+   "league": "EPL",
+   "match": "Bournemouth v Sunderland",
+   "pick": "Bournemouth win",
+   "chance": 0.447,
+   "label": "Swing",
+   "called": "1-0",
+   "actual": "2-0",
    "right": true,
    "exact": false,
-   "goals": 5,
-   "over_chance": 0.616,
+   "goals": 2,
+   "over_chance": 0.54,
    "why": [
-    "Right: the model's pick (Brighton win) had 61%.",
-    "Own goal: J. Canvot, goal to Brighton 4'"
+    "Right: the model's pick (Bournemouth win) had 45%.",
+    "Red card: Kevin Danso (Sunderland) 17'"
    ]
   },
   {
@@ -865,23 +882,6 @@
    "over_chance": 0.58,
    "why": [
     "Right: the model's pick (Como win) had 45%."
-   ]
-  },
-  {
-   "ko_nz": "Mon 19 Oct 02:00",
-   "league": "EPL",
-   "match": "Leeds United v Manchester United",
-   "pick": "Leeds United win",
-   "chance": 0.415,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "1-1",
-   "right": false,
-   "exact": false,
-   "goals": 2,
-   "over_chance": 0.565,
-   "why": [
-    "Wrong: the model had Leeds United win at 42%; the actual result (draw) had 27%, an upset."
    ]
   },
   {
@@ -907,19 +907,19 @@
   {
    "ko_nz": "Mon 19 Oct 02:00",
    "league": "EPL",
-   "match": "Bournemouth v Sunderland",
-   "pick": "Bournemouth win",
-   "chance": 0.447,
+   "match": "Brighton v Crystal Palace",
+   "pick": "Brighton win",
+   "chance": 0.61,
    "label": "Swing",
-   "called": "1-0",
-   "actual": "2-0",
+   "called": "2-1",
+   "actual": "5-0",
    "right": true,
    "exact": false,
-   "goals": 2,
-   "over_chance": 0.54,
+   "goals": 5,
+   "over_chance": 0.616,
    "why": [
-    "Right: the model's pick (Bournemouth win) had 45%.",
-    "Red card: Kevin Danso (Sunderland) 17'"
+    "Right: the model's pick (Brighton win) had 61%.",
+    "Own goal: J. Canvot, goal to Brighton 4'"
    ]
   },
   {
@@ -979,24 +979,6 @@
   {
    "ko_nz": "Sun 18 Oct 07:45",
    "league": "Ligue 1",
-   "match": "Troyes v Lens",
-   "pick": "Lens win",
-   "chance": 0.51,
-   "label": "Swing",
-   "called": "1-2",
-   "actual": "1-3",
-   "right": true,
-   "exact": false,
-   "goals": 4,
-   "over_chance": 0.568,
-   "why": [
-    "Right: the model's pick (Lens win) had 51%.",
-    "Own goal: A. Monfray, goal to Lens 13'"
-   ]
-  },
-  {
-   "ko_nz": "Sun 18 Oct 07:45",
-   "league": "Ligue 1",
    "match": "Lille v Brest",
    "pick": "Lille win",
    "chance": 0.508,
@@ -1011,6 +993,24 @@
     "Wrong: the model had Lille win at 51%; the actual result (draw) had 26%, an upset.",
     "Penalty scored: O. Giroud (Lille) 64'",
     "Lesson: A normal loss for a marginal candidate; not a reason to drop home favourites."
+   ]
+  },
+  {
+   "ko_nz": "Sun 18 Oct 07:45",
+   "league": "Ligue 1",
+   "match": "Troyes v Lens",
+   "pick": "Lens win",
+   "chance": 0.51,
+   "label": "Swing",
+   "called": "1-2",
+   "actual": "1-3",
+   "right": true,
+   "exact": false,
+   "goals": 4,
+   "over_chance": 0.568,
+   "why": [
+    "Right: the model's pick (Lens win) had 51%.",
+    "Own goal: A. Monfray, goal to Lens 13'"
    ]
   },
   {
@@ -1144,24 +1144,6 @@
   {
    "ko_nz": "Sun 18 Oct 03:00",
    "league": "EPL",
-   "match": "Fulham v Hull City",
-   "pick": "Fulham win",
-   "chance": 0.611,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "1-0",
-   "right": true,
-   "exact": false,
-   "goals": 1,
-   "over_chance": 0.555,
-   "why": [
-    "Right: the model's pick (Fulham win) had 61%.",
-    "Red card: Ryan Sessegnon (Fulham) 90+4'"
-   ]
-  },
-  {
-   "ko_nz": "Sun 18 Oct 03:00",
-   "league": "EPL",
    "match": "Manchester City v Ipswich Town",
    "pick": "Manchester City win",
    "chance": 0.751,
@@ -1175,6 +1157,24 @@
    "why": [
     "Right: the model's pick (Manchester City win) had 75%.",
     "Penalty scored: Z. Flemming (Ipswich Town) 90'"
+   ]
+  },
+  {
+   "ko_nz": "Sun 18 Oct 03:00",
+   "league": "EPL",
+   "match": "Fulham v Hull City",
+   "pick": "Fulham win",
+   "chance": 0.611,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "1-0",
+   "right": true,
+   "exact": false,
+   "goals": 1,
+   "over_chance": 0.555,
+   "why": [
+    "Right: the model's pick (Fulham win) had 61%.",
+    "Red card: Ryan Sessegnon (Fulham) 90+4'"
    ]
   },
   {
@@ -1194,6 +1194,28 @@
     "Wrong: the model had Brentford win at 44%; the actual result (away win) had 30%, a close call.",
     "Red card: Yehor Yarmoliuk (Brentford) 45+8'",
     "Red card: Vitaly Janelt (Brentford) 90+2'"
+   ]
+  },
+  {
+   "ko_nz": "Sun 18 Oct 02:30",
+   "league": "Bundesliga",
+   "match": "Elversberg v Augsburg",
+   "pick": "Elversberg win",
+   "chance": 0.381,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "4-3",
+   "right": true,
+   "exact": false,
+   "goals": 7,
+   "over_chance": 0.566,
+   "why": [
+    "Right: the model's pick (Elversberg win) had 38%.",
+    "Goals well above forecast: 7 v 3.0 expected.",
+    "Penalty missed: Lukas Petkov (Elversberg) 4'",
+    "Penalty scored: F. Rieder (Augsburg) 45'",
+    "Penalty scored: M. Gregoritsch (Augsburg) 76'",
+    "Penalty missed: Noel Futkeu (Elversberg) 90+8'"
    ]
   },
   {
@@ -1232,28 +1254,6 @@
     "Wrong: the model had Borussia Dortmund win at 60%; the actual result (draw) had 21%, an upset.",
     "Goals well below forecast: 0 v 3.2 expected.",
     "Lesson: Goals conceded did not prove Union would play open. Ask whether the underdog can hold its block at 0-0 and whether the favourite can create centrally. 60% also failed the 62.5% the 1.60 price needed."
-   ]
-  },
-  {
-   "ko_nz": "Sun 18 Oct 02:30",
-   "league": "Bundesliga",
-   "match": "Elversberg v Augsburg",
-   "pick": "Elversberg win",
-   "chance": 0.381,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "4-3",
-   "right": true,
-   "exact": false,
-   "goals": 7,
-   "over_chance": 0.566,
-   "why": [
-    "Right: the model's pick (Elversberg win) had 38%.",
-    "Goals well above forecast: 7 v 3.0 expected.",
-    "Penalty missed: Lukas Petkov (Elversberg) 4'",
-    "Penalty scored: F. Rieder (Augsburg) 45'",
-    "Penalty scored: M. Gregoritsch (Augsburg) 76'",
-    "Penalty missed: Noel Futkeu (Elversberg) 90+8'"
    ]
   },
   {
