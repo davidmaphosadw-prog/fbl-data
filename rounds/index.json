@@ -1,6 +1,12 @@
 {
- "updated": "2026-10-29 10:10 NZ",
+ "updated": "2026-10-31 09:51 NZ",
  "rounds": [
+  {
+   "tag": "2026-10-31-0941",
+   "file": "rounds/2026-10-31-0941.json",
+   "title": "FBL Pundit, Sat 31 Oct",
+   "stamp": "Sat 31 Oct 09:41 NZ"
+  },
   {
    "tag": "2026-10-29-0959",
    "file": "rounds/2026-10-29-0959.json",
@@ -78,12 +84,6 @@
    "file": "rounds/2026-10-24-2308.json",
    "title": "FBL Pundit, Sat 24 Oct",
    "stamp": "Sat 24 Oct 23:08 NZ"
-  },
-  {
-   "tag": "2026-10-24-1906",
-   "file": "rounds/2026-10-24-1906.json",
-   "title": "FBL Pundit, Sat 24 Oct",
-   "stamp": "Sat 24 Oct 19:06 NZ"
   }
  ]
 }
