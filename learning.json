@@ -1,86 +1,86 @@
 {
- "updated": "2026-11-02 19:35 NZ",
+ "updated": "2026-11-04 17:19 NZ",
  "since": "2026-10-16",
  "min_games_to_act": 100,
  "headline": {
-  "n": 303,
-  "right": 177,
-  "expected": 158.128,
-  "ll_model": 0.96,
-  "ll_market": 0.953,
-  "bankers": 27,
-  "bankers_right": 21,
-  "bankers_expected": 21.006,
-  "goals_actual": 3.056,
-  "goals_model": 3.034,
+  "n": 332,
+  "right": 194,
+  "expected": 172.491,
+  "ll_model": 0.957,
+  "ll_market": 0.95,
+  "bankers": 29,
+  "bankers_right": 23,
+  "bankers_expected": 22.63,
+  "goals_actual": 3.039,
+  "goals_model": 3.033,
   "over_actual": 0.554,
   "over_model": 0.577,
-  "btts_actual": 0.541,
+  "btts_actual": 0.527,
   "btts_model": 0.572,
-  "exact": 30,
-  "right_z": 2.236,
-  "over_z": -0.817
+  "exact": 32,
+  "right_z": 2.434,
+  "over_z": -0.849
  },
  "pick_bands": [
   {
    "band": "0 to 50%",
-   "games": 154,
+   "games": 173,
    "forecast": 0.425,
-   "actual": 0.513
+   "actual": 0.514
   },
   {
    "band": "50 to 60%",
-   "games": 71,
-   "forecast": 0.547,
-   "actual": 0.549
+   "games": 76,
+   "forecast": 0.548,
+   "actual": 0.553
   },
   {
    "band": "60 to 70%",
-   "games": 47,
+   "games": 50,
    "forecast": 0.637,
-   "actual": 0.723
+   "actual": 0.72
   },
   {
    "band": "70 to 80%",
-   "games": 24,
-   "forecast": 0.746,
-   "actual": 0.792
+   "games": 25,
+   "forecast": 0.747,
+   "actual": 0.8
   },
   {
    "band": "80 to 100%",
-   "games": 7,
-   "forecast": 0.85,
-   "actual": 0.857
+   "games": 8,
+   "forecast": 0.849,
+   "actual": 0.875
   }
  ],
  "over_bands": [
   {
    "band": "0 to 50%",
-   "games": 66,
+   "games": 74,
    "forecast": 0.455,
-   "actual": 0.455
+   "actual": 0.473
   },
   {
    "band": "50 to 60%",
-   "games": 117,
+   "games": 128,
    "forecast": 0.549,
-   "actual": 0.504
+   "actual": 0.5
   },
   {
    "band": "60 to 70%",
-   "games": 88,
-   "forecast": 0.643,
-   "actual": 0.625
+   "games": 94,
+   "forecast": 0.644,
+   "actual": 0.617
   },
   {
    "band": "70 to 80%",
-   "games": 27,
-   "forecast": 0.737,
-   "actual": 0.704
+   "games": 30,
+   "forecast": 0.736,
+   "actual": 0.7
   },
   {
    "band": "80 to 100%",
-   "games": 5,
+   "games": 6,
    "forecast": 0.818,
    "actual": 1.0
   }
@@ -108,33 +108,33 @@
   },
   {
    "league": "CL",
-   "games": 18,
-   "right": 12,
-   "expected": 11.4,
-   "goals_model": 3.61,
-   "goals_actual": 4.11,
-   "over_model": 0.693,
-   "over_actual": 0.778
+   "games": 27,
+   "right": 20,
+   "expected": 16.2,
+   "goals_model": 3.59,
+   "goals_actual": 3.7,
+   "over_model": 0.689,
+   "over_actual": 0.704
   },
   {
    "league": "Championship",
-   "games": 25,
-   "right": 17,
-   "expected": 12.6,
-   "goals_model": 2.88,
-   "goals_actual": 3.16,
-   "over_model": 0.545,
-   "over_actual": 0.6
+   "games": 34,
+   "right": 21,
+   "expected": 16.4,
+   "goals_model": 2.85,
+   "goals_actual": 3.06,
+   "over_model": 0.539,
+   "over_actual": 0.588
   },
   {
    "league": "EPL",
-   "games": 29,
+   "games": 30,
    "right": 16,
-   "expected": 14.6,
+   "expected": 15.0,
    "goals_model": 2.95,
-   "goals_actual": 2.24,
+   "goals_actual": 2.2,
    "over_model": 0.564,
-   "over_actual": 0.276
+   "over_actual": 0.267
   },
   {
    "league": "Eredivisie",
@@ -148,53 +148,53 @@
   },
   {
    "league": "La Liga",
-   "games": 29,
-   "right": 19,
-   "expected": 16.0,
-   "goals_model": 2.99,
+   "games": 30,
+   "right": 20,
+   "expected": 16.5,
+   "goals_model": 2.96,
    "goals_actual": 2.83,
-   "over_model": 0.561,
-   "over_actual": 0.586
+   "over_model": 0.555,
+   "over_actual": 0.6
   },
   {
    "league": "La Liga 2",
-   "games": 16,
-   "right": 6,
-   "expected": 7.6,
-   "goals_model": 2.75,
-   "goals_actual": 2.88,
-   "over_model": 0.521,
-   "over_actual": 0.438
+   "games": 19,
+   "right": 8,
+   "expected": 9.3,
+   "goals_model": 2.74,
+   "goals_actual": 3.21,
+   "over_model": 0.517,
+   "over_actual": 0.526
   },
   {
    "league": "Ligue 1",
-   "games": 25,
+   "games": 26,
    "right": 15,
-   "expected": 12.9,
-   "goals_model": 3.06,
-   "goals_actual": 3.36,
-   "over_model": 0.588,
-   "over_actual": 0.56
+   "expected": 13.3,
+   "goals_model": 3.04,
+   "goals_actual": 3.31,
+   "over_model": 0.582,
+   "over_actual": 0.538
   },
   {
    "league": "Ligue 2",
-   "games": 10,
-   "right": 6,
-   "expected": 4.6,
-   "goals_model": 2.72,
-   "goals_actual": 2.4,
-   "over_model": 0.511,
+   "games": 12,
+   "right": 7,
+   "expected": 5.7,
+   "goals_model": 2.73,
+   "goals_actual": 2.58,
+   "over_model": 0.514,
    "over_actual": 0.5
   },
   {
    "league": "Primeira Liga",
-   "games": 17,
-   "right": 10,
-   "expected": 9.9,
-   "goals_model": 2.7,
-   "goals_actual": 2.65,
-   "over_model": 0.504,
-   "over_actual": 0.588
+   "games": 19,
+   "right": 11,
+   "expected": 11.2,
+   "goals_model": 2.76,
+   "goals_actual": 2.42,
+   "over_model": 0.514,
+   "over_actual": 0.526
   },
   {
    "league": "Scottish Prem",
@@ -208,13 +208,13 @@
   },
   {
    "league": "Serie A",
-   "games": 38,
+   "games": 39,
    "right": 27,
-   "expected": 20.1,
-   "goals_model": 2.89,
-   "goals_actual": 3.61,
-   "over_model": 0.546,
-   "over_actual": 0.658
+   "expected": 20.7,
+   "goals_model": 2.9,
+   "goals_actual": 3.59,
+   "over_model": 0.548,
+   "over_actual": 0.667
   },
   {
    "league": "Serie B",
@@ -228,6 +228,485 @@
   }
  ],
  "recent": [
+  {
+   "ko_nz": "Wed 04 Nov 09:00",
+   "league": "CL",
+   "match": "Manchester United v Roma",
+   "pick": "Manchester United win",
+   "chance": 0.384,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "3-2",
+   "right": true,
+   "exact": false,
+   "goals": 5,
+   "over_chance": 0.636,
+   "why": [
+    "Right: the model's pick (Manchester United win) had 38%.",
+    "Penalty scored: Donyell Malen (Roma) 17'",
+    "Penalty scored: Bruno Fernandes (Manchester United) 58'",
+    "Red card: Matheus Cunha (Manchester United) 90+1'",
+    "Decided late: 1 goal(s) from the 85th minute changed the result"
+   ]
+  },
+  {
+   "ko_nz": "Wed 04 Nov 09:00",
+   "league": "CL",
+   "match": "LASK v Slovan Bratislava",
+   "pick": "LASK win",
+   "chance": 0.678,
+   "label": "Swing",
+   "called": "2-0",
+   "actual": "4-0",
+   "right": true,
+   "exact": false,
+   "goals": 4,
+   "over_chance": 0.702,
+   "why": [
+    "Right: the model's pick (LASK win) had 68%."
+   ]
+  },
+  {
+   "ko_nz": "Wed 04 Nov 09:00",
+   "league": "Championship",
+   "match": "Birmingham v Millwall",
+   "pick": "Birmingham win",
+   "chance": 0.485,
+   "label": "Swing",
+   "called": "1-0",
+   "actual": "3-0",
+   "right": true,
+   "exact": false,
+   "goals": 3,
+   "over_chance": 0.537,
+   "why": [
+    "Right: the model's pick (Birmingham win) had 48%."
+   ]
+  },
+  {
+   "ko_nz": "Wed 04 Nov 09:00",
+   "league": "Championship",
+   "match": "West Brom v Southampton",
+   "pick": "West Brom win",
+   "chance": 0.395,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "1-1",
+   "right": false,
+   "exact": false,
+   "goals": 2,
+   "over_chance": 0.573,
+   "why": [
+    "Wrong: the model had West Brom win at 40%; the actual result (draw) had 26%, an upset.",
+    "Penalty scored: Isaac Price (West Brom) 22'"
+   ]
+  },
+  {
+   "ko_nz": "Wed 04 Nov 09:00",
+   "league": "CL",
+   "match": "Bodo/Glimt v Lille",
+   "pick": "Bodo/Glimt win",
+   "chance": 0.534,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "0-0",
+   "right": false,
+   "exact": false,
+   "goals": 0,
+   "over_chance": 0.657,
+   "why": [
+    "Wrong: the model had Bodo/Glimt win at 53%; the actual result (draw) had 22%, an upset.",
+    "Goals well below forecast: 0 v 3.3 expected."
+   ]
+  },
+  {
+   "ko_nz": "Wed 04 Nov 09:00",
+   "league": "CL",
+   "match": "Atletico Madrid v Bayern Munich",
+   "pick": "Bayern Munich win",
+   "chance": 0.378,
+   "label": "Swing",
+   "called": "1-2",
+   "actual": "0-2",
+   "right": true,
+   "exact": false,
+   "goals": 2,
+   "over_chance": 0.638,
+   "why": [
+    "Right: the model's pick (Bayern Munich win) had 38%."
+   ]
+  },
+  {
+   "ko_nz": "Wed 04 Nov 09:00",
+   "league": "CL",
+   "match": "Feyenoord v Inter",
+   "pick": "Inter win",
+   "chance": 0.535,
+   "label": "Swing",
+   "called": "1-2",
+   "actual": "0-3",
+   "right": true,
+   "exact": false,
+   "goals": 3,
+   "over_chance": 0.687,
+   "why": [
+    "Right: the model's pick (Inter win) had 54%."
+   ]
+  },
+  {
+   "ko_nz": "Wed 04 Nov 09:00",
+   "league": "CL",
+   "match": "Villarreal v Paris Saint-Germain",
+   "pick": "Paris Saint-Germain win",
+   "chance": 0.584,
+   "label": "Swing",
+   "called": "1-2",
+   "actual": "0-6",
+   "right": true,
+   "exact": false,
+   "goals": 6,
+   "over_chance": 0.722,
+   "why": [
+    "Right: the model's pick (Paris Saint-Germain win) had 58%.",
+    "Goals well above forecast: 6 v 3.8 expected."
+   ]
+  },
+  {
+   "ko_nz": "Wed 04 Nov 09:00",
+   "league": "CL",
+   "match": "Barcelona v Aston Villa",
+   "pick": "Barcelona win",
+   "chance": 0.784,
+   "label": "Banker",
+   "called": "3-1",
+   "actual": "3-0",
+   "right": true,
+   "exact": false,
+   "goals": 3,
+   "over_chance": 0.816,
+   "why": [
+    "Right: the model's pick (Barcelona win) had 78%."
+   ]
+  },
+  {
+   "ko_nz": "Wed 04 Nov 08:45",
+   "league": "Championship",
+   "match": "Preston v Sheffield United",
+   "pick": "Sheffield United win",
+   "chance": 0.435,
+   "label": "Swing",
+   "called": "0-1",
+   "actual": "2-3",
+   "right": true,
+   "exact": false,
+   "goals": 5,
+   "over_chance": 0.517,
+   "why": [
+    "Right: the model's pick (Sheffield United win) had 44%.",
+    "Goals well above forecast: 5 v 2.7 expected."
+   ]
+  },
+  {
+   "ko_nz": "Wed 04 Nov 08:45",
+   "league": "Championship",
+   "match": "Portsmouth v Swansea",
+   "pick": "Swansea win",
+   "chance": 0.382,
+   "label": "Swing",
+   "called": "0-1",
+   "actual": "3-1",
+   "right": false,
+   "exact": false,
+   "goals": 4,
+   "over_chance": 0.461,
+   "why": [
+    "Wrong: the model had Swansea win at 38%; the actual result (home win) had 31%, a close call.",
+    "Penalty scored: Zan Vipotnik (Swansea) 85'"
+   ]
+  },
+  {
+   "ko_nz": "Wed 04 Nov 08:45",
+   "league": "Championship",
+   "match": "QPR v Burnley",
+   "pick": "QPR win",
+   "chance": 0.492,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "1-1",
+   "right": false,
+   "exact": false,
+   "goals": 2,
+   "over_chance": 0.581,
+   "why": [
+    "Wrong: the model had QPR win at 49%; the actual result (draw) had 26%, an upset."
+   ]
+  },
+  {
+   "ko_nz": "Wed 04 Nov 08:45",
+   "league": "Championship",
+   "match": "Derby v Norwich",
+   "pick": "Norwich win",
+   "chance": 0.442,
+   "label": "Swing",
+   "called": "1-2",
+   "actual": "0-4",
+   "right": true,
+   "exact": false,
+   "goals": 4,
+   "over_chance": 0.554,
+   "why": [
+    "Right: the model's pick (Norwich win) had 44%."
+   ]
+  },
+  {
+   "ko_nz": "Wed 04 Nov 08:45",
+   "league": "Championship",
+   "match": "Watford v Lincoln",
+   "pick": "Watford win",
+   "chance": 0.401,
+   "label": "Swing",
+   "called": "1-0",
+   "actual": "1-0",
+   "right": true,
+   "exact": true,
+   "goals": 1,
+   "over_chance": 0.467,
+   "why": [
+    "Right: the model's pick (Watford win) had 40%."
+   ]
+  },
+  {
+   "ko_nz": "Wed 04 Nov 08:45",
+   "league": "Championship",
+   "match": "Charlton v Bolton",
+   "pick": "Charlton win",
+   "chance": 0.414,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "0-1",
+   "right": false,
+   "exact": false,
+   "goals": 1,
+   "over_chance": 0.549,
+   "why": [
+    "Wrong: the model had Charlton win at 41%; the actual result (away win) had 32%, a close call."
+   ]
+  },
+  {
+   "ko_nz": "Wed 04 Nov 08:45",
+   "league": "Championship",
+   "match": "Blackburn v Stoke",
+   "pick": "Blackburn win",
+   "chance": 0.382,
+   "label": "Swing",
+   "called": "1-0",
+   "actual": "1-2",
+   "right": false,
+   "exact": false,
+   "goals": 3,
+   "over_chance": 0.471,
+   "why": [
+    "Wrong: the model had Blackburn win at 38%; the actual result (away win) had 34%, a close call.",
+    "Own goal: Moussa·Baradji, goal to Stoke 68'"
+   ]
+  },
+  {
+   "ko_nz": "Wed 04 Nov 06:45",
+   "league": "CL",
+   "match": "Galatasaray v VfB Stuttgart",
+   "pick": "Galatasaray win",
+   "chance": 0.425,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "2-0",
+   "right": true,
+   "exact": false,
+   "goals": 2,
+   "over_chance": 0.69,
+   "why": [
+    "Right: the model's pick (Galatasaray win) had 42%."
+   ]
+  },
+  {
+   "ko_nz": "Wed 04 Nov 06:45",
+   "league": "CL",
+   "match": "Shakhtar Donetsk v Sp Lisbon",
+   "pick": "Sp Lisbon win",
+   "chance": 0.492,
+   "label": "Swing",
+   "called": "1-2",
+   "actual": "0-1",
+   "right": true,
+   "exact": false,
+   "goals": 1,
+   "over_chance": 0.574,
+   "why": [
+    "Right: the model's pick (Sp Lisbon win) had 49%."
+   ]
+  },
+  {
+   "ko_nz": "Tue 03 Nov 09:15",
+   "league": "Primeira Liga",
+   "match": "Benfica v Alverca",
+   "pick": "Benfica win",
+   "chance": 0.84,
+   "label": "Banker",
+   "called": "3-0",
+   "actual": "1-0",
+   "right": true,
+   "exact": false,
+   "goals": 1,
+   "over_chance": 0.76,
+   "why": [
+    "Right: the model's pick (Benfica win) had 84%.",
+    "Goals well below forecast: 1 v 4.0 expected.",
+    "Penalty scored: Vangelis Pavlidis (Benfica) 51'"
+   ]
+  },
+  {
+   "ko_nz": "Tue 03 Nov 09:15",
+   "league": "Primeira Liga",
+   "match": "Gil Vicente v Guimaraes",
+   "pick": "Guimaraes win",
+   "chance": 0.386,
+   "label": "Swing",
+   "called": "0-1",
+   "actual": "0-0",
+   "right": false,
+   "exact": false,
+   "goals": 0,
+   "over_chance": 0.45,
+   "why": [
+    "Wrong: the model had Guimaraes win at 39%; the actual result (draw) had 29%, an upset.",
+    "Goals well below forecast: 0 v 2.5 expected."
+   ]
+  },
+  {
+   "ko_nz": "Tue 03 Nov 09:00",
+   "league": "EPL",
+   "match": "Newcastle United v Everton",
+   "pick": "Newcastle United win",
+   "chance": 0.419,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "0-1",
+   "right": false,
+   "exact": false,
+   "goals": 1,
+   "over_chance": 0.557,
+   "why": [
+    "Wrong: the model had Newcastle United win at 42%; the actual result (away win) had 31%, a close call.",
+    "Red card: Jacob Ramsey (Newcastle United) 90+8'"
+   ]
+  },
+  {
+   "ko_nz": "Tue 03 Nov 09:00",
+   "league": "La Liga 2",
+   "match": "Mallorca v Cadiz",
+   "pick": "Mallorca win",
+   "chance": 0.655,
+   "label": "Swing",
+   "called": "2-0",
+   "actual": "2-1",
+   "right": true,
+   "exact": false,
+   "goals": 3,
+   "over_chance": 0.52,
+   "why": [
+    "Right: the model's pick (Mallorca win) had 66%.",
+    "Decided late: 1 goal(s) from the 85th minute changed the result"
+   ]
+  },
+  {
+   "ko_nz": "Tue 03 Nov 09:00",
+   "league": "La Liga",
+   "match": "Deportivo La Coruna v Osasuna",
+   "pick": "Deportivo La Coruna win",
+   "chance": 0.433,
+   "label": "Swing",
+   "called": "1-0",
+   "actual": "2-1",
+   "right": true,
+   "exact": false,
+   "goals": 3,
+   "over_chance": 0.408,
+   "why": [
+    "Right: the model's pick (Deportivo La Coruna win) had 43%.",
+    "Decided late: 1 goal(s) from the 85th minute changed the result"
+   ]
+  },
+  {
+   "ko_nz": "Tue 03 Nov 08:45",
+   "league": "Ligue 2",
+   "match": "Reims v Sochaux",
+   "pick": "Reims win",
+   "chance": 0.599,
+   "label": "Swing",
+   "called": "2-0",
+   "actual": "2-0",
+   "right": true,
+   "exact": true,
+   "goals": 2,
+   "over_chance": 0.543,
+   "why": [
+    "Right: the model's pick (Reims win) had 60%."
+   ]
+  },
+  {
+   "ko_nz": "Tue 03 Nov 08:45",
+   "league": "Ligue 2",
+   "match": "Red Star v Nancy",
+   "pick": "Red Star win",
+   "chance": 0.406,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "1-4",
+   "right": false,
+   "exact": false,
+   "goals": 5,
+   "over_chance": 0.511,
+   "why": [
+    "Wrong: the model had Red Star win at 41%; the actual result (away win) had 31%, a close call.",
+    "Goals well above forecast: 5 v 2.7 expected.",
+    "Penalty missed: Damien Durand (Red Star) 39'"
+   ]
+  },
+  {
+   "ko_nz": "Tue 03 Nov 08:45",
+   "league": "Ligue 1",
+   "match": "Lorient v Brest",
+   "pick": "Lorient win",
+   "chance": 0.41,
+   "label": "Swing",
+   "called": "1-0",
+   "actual": "0-2",
+   "right": false,
+   "exact": false,
+   "goals": 2,
+   "over_chance": 0.438,
+   "why": [
+    "Wrong: the model had Lorient win at 41%; the actual result (away win) had 30%, a close call.",
+    "Penalty missed: Aiyegun Tosin (Lorient) 90+1'"
+   ]
+  },
+  {
+   "ko_nz": "Tue 03 Nov 08:45",
+   "league": "Serie A",
+   "match": "Atalanta v Parma",
+   "pick": "Atalanta win",
+   "chance": 0.609,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "0-3",
+   "right": false,
+   "exact": false,
+   "goals": 3,
+   "over_chance": 0.632,
+   "why": [
+    "Wrong: the model had Atalanta win at 61%; the actual result (away win) had 17%, an upset.",
+    "Own goal: Davide Zappacosta, goal to Parma 47'"
+   ]
+  },
   {
    "ko_nz": "Tue 03 Nov 06:30",
    "league": "Serie A",
@@ -244,6 +723,43 @@
    "why": [
     "Right: the model's pick (Fiorentina win) had 40%.",
     "Goals well above forecast: 6 v 3.2 expected."
+   ]
+  },
+  {
+   "ko_nz": "Tue 03 Nov 06:30",
+   "league": "La Liga 2",
+   "match": "Valladolid v Leganes",
+   "pick": "Valladolid win",
+   "chance": 0.458,
+   "label": "Swing",
+   "called": "1-0",
+   "actual": "4-3",
+   "right": true,
+   "exact": false,
+   "goals": 7,
+   "over_chance": 0.471,
+   "why": [
+    "Right: the model's pick (Valladolid win) had 46%.",
+    "Goals well above forecast: 7 v 2.6 expected."
+   ]
+  },
+  {
+   "ko_nz": "Tue 03 Nov 04:15",
+   "league": "La Liga 2",
+   "match": "Real Oviedo v Las Palmas",
+   "pick": "Real Oviedo win",
+   "chance": 0.526,
+   "label": "Swing",
+   "called": "2-0",
+   "actual": "2-3",
+   "right": false,
+   "exact": false,
+   "goals": 5,
+   "over_chance": 0.481,
+   "why": [
+    "Wrong: the model had Real Oviedo win at 53%; the actual result (away win) had 21%, an upset.",
+    "Goals well above forecast: 5 v 2.6 expected.",
+    "Penalty scored: Jesé Rodríguez (Las Palmas) 26'"
    ]
   },
   {
@@ -285,6 +801,23 @@
   },
   {
    "ko_nz": "Mon 02 Nov 08:45",
+   "league": "Ligue 1",
+   "match": "Marseille v Toulouse",
+   "pick": "Marseille win",
+   "chance": 0.504,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "2-0",
+   "right": true,
+   "exact": false,
+   "goals": 2,
+   "over_chance": 0.654,
+   "why": [
+    "Right: the model's pick (Marseille win) had 50%."
+   ]
+  },
+  {
+   "ko_nz": "Mon 02 Nov 08:45",
    "league": "Serie A",
    "match": "Juventus v Napoli",
    "pick": "Juventus win",
@@ -299,23 +832,6 @@
    "why": [
     "Right: the model's pick (Juventus win) had 44%.",
     "Red card: Luca Marianucci (Napoli) 75'"
-   ]
-  },
-  {
-   "ko_nz": "Mon 02 Nov 08:45",
-   "league": "Ligue 1",
-   "match": "Marseille v Toulouse",
-   "pick": "Marseille win",
-   "chance": 0.504,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "2-0",
-   "right": true,
-   "exact": false,
-   "goals": 2,
-   "over_chance": 0.654,
-   "why": [
-    "Right: the model's pick (Marseille win) had 50%."
    ]
   },
   {
@@ -372,23 +888,6 @@
   },
   {
    "ko_nz": "Mon 02 Nov 06:30",
-   "league": "La Liga",
-   "match": "Elche v Valencia",
-   "pick": "Elche win",
-   "chance": 0.455,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "0-1",
-   "right": false,
-   "exact": false,
-   "goals": 1,
-   "over_chance": 0.504,
-   "why": [
-    "Wrong: the model had Elche win at 46%; the actual result (away win) had 28%, an upset."
-   ]
-  },
-  {
-   "ko_nz": "Mon 02 Nov 06:30",
    "league": "La Liga 2",
    "match": "Burgos v Castellon",
    "pick": "Castellon win",
@@ -403,6 +902,23 @@
    "why": [
     "Wrong: the model had Castellon win at 44%; the actual result (draw) had 28%, an upset.",
     "Red card: Matías Orozco (Castellon) 60'"
+   ]
+  },
+  {
+   "ko_nz": "Mon 02 Nov 06:30",
+   "league": "La Liga",
+   "match": "Elche v Valencia",
+   "pick": "Elche win",
+   "chance": 0.455,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "0-1",
+   "right": false,
+   "exact": false,
+   "goals": 1,
+   "over_chance": 0.504,
+   "why": [
+    "Wrong: the model had Elche win at 46%; the actual result (away win) had 28%, an upset."
    ]
   },
   {
@@ -424,24 +940,6 @@
   },
   {
    "ko_nz": "Mon 02 Nov 05:30",
-   "league": "Bundesliga",
-   "match": "Eintracht Frankfurt v Hamburg",
-   "pick": "Eintracht Frankfurt win",
-   "chance": 0.658,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "3-1",
-   "right": true,
-   "exact": false,
-   "goals": 4,
-   "over_chance": 0.68,
-   "why": [
-    "Right: the model's pick (Eintracht Frankfurt win) had 66%.",
-    "Own goal: Warmed Omari, goal to Eintracht Frankfurt 10'"
-   ]
-  },
-  {
-   "ko_nz": "Mon 02 Nov 05:30",
    "league": "EPL",
    "match": "Liverpool v Arsenal",
    "pick": "Arsenal win",
@@ -458,20 +956,21 @@
    ]
   },
   {
-   "ko_nz": "Mon 02 Nov 05:15",
-   "league": "Ligue 1",
-   "match": "Paris FC v Monaco",
-   "pick": "Paris FC win",
-   "chance": 0.384,
+   "ko_nz": "Mon 02 Nov 05:30",
+   "league": "Bundesliga",
+   "match": "Eintracht Frankfurt v Hamburg",
+   "pick": "Eintracht Frankfurt win",
+   "chance": 0.658,
    "label": "Swing",
    "called": "2-1",
    "actual": "3-1",
    "right": true,
    "exact": false,
    "goals": 4,
-   "over_chance": 0.561,
+   "over_chance": 0.68,
    "why": [
-    "Right: the model's pick (Paris FC win) had 38%."
+    "Right: the model's pick (Eintracht Frankfurt win) had 66%.",
+    "Own goal: Warmed Omari, goal to Eintracht Frankfurt 10'"
    ]
   },
   {
@@ -506,6 +1005,23 @@
    "over_chance": 0.54,
    "why": [
     "Right: the model's pick (Verona win) had 61%."
+   ]
+  },
+  {
+   "ko_nz": "Mon 02 Nov 05:15",
+   "league": "Ligue 1",
+   "match": "Paris FC v Monaco",
+   "pick": "Paris FC win",
+   "chance": 0.384,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "3-1",
+   "right": true,
+   "exact": false,
+   "goals": 4,
+   "over_chance": 0.561,
+   "why": [
+    "Right: the model's pick (Paris FC win) had 38%."
    ]
   },
   {
@@ -597,40 +1113,37 @@
   },
   {
    "ko_nz": "Mon 02 Nov 03:00",
-   "league": "Serie B",
-   "match": "Arezzo v Ascoli",
-   "pick": "Ascoli win",
-   "chance": 0.425,
+   "league": "Serie A",
+   "match": "Lazio v Cagliari",
+   "pick": "Lazio win",
+   "chance": 0.64,
    "label": "Swing",
-   "called": "0-1",
-   "actual": "0-0",
-   "right": false,
+   "called": "2-0",
+   "actual": "2-1",
+   "right": true,
    "exact": false,
-   "goals": 0,
-   "over_chance": 0.501,
+   "goals": 3,
+   "over_chance": 0.55,
    "why": [
-    "Wrong: the model had Ascoli win at 42%; the actual result (draw) had 28%, an upset.",
-    "Goals well below forecast: 0 v 2.7 expected."
+    "Right: the model's pick (Lazio win) had 64%.",
+    "Red card: Adam Obert (Cagliari) 90+1'"
    ]
   },
   {
    "ko_nz": "Mon 02 Nov 03:00",
-   "league": "Ligue 1",
-   "match": "Strasbourg v Auxerre",
-   "pick": "Strasbourg win",
-   "chance": 0.53,
+   "league": "Serie A",
+   "match": "Frosinone v Torino",
+   "pick": "Frosinone win",
+   "chance": 0.498,
    "label": "Swing",
    "called": "2-1",
-   "actual": "5-1",
+   "actual": "2-0",
    "right": true,
    "exact": false,
-   "goals": 6,
-   "over_chance": 0.599,
+   "goals": 2,
+   "over_chance": 0.699,
    "why": [
-    "Right: the model's pick (Strasbourg win) had 53%.",
-    "Goals well above forecast: 6 v 3.1 expected.",
-    "Penalty scored: Conrad Harder (Strasbourg) 62'",
-    "Red card: Lamfia Dioubaté (Auxerre) 74'"
+    "Right: the model's pick (Frosinone win) had 50%."
    ]
   },
   {
@@ -669,37 +1182,40 @@
   },
   {
    "ko_nz": "Mon 02 Nov 03:00",
-   "league": "Serie A",
-   "match": "Frosinone v Torino",
-   "pick": "Frosinone win",
-   "chance": 0.498,
+   "league": "Ligue 1",
+   "match": "Strasbourg v Auxerre",
+   "pick": "Strasbourg win",
+   "chance": 0.53,
    "label": "Swing",
    "called": "2-1",
-   "actual": "2-0",
+   "actual": "5-1",
    "right": true,
    "exact": false,
-   "goals": 2,
-   "over_chance": 0.699,
+   "goals": 6,
+   "over_chance": 0.599,
    "why": [
-    "Right: the model's pick (Frosinone win) had 50%."
+    "Right: the model's pick (Strasbourg win) had 53%.",
+    "Goals well above forecast: 6 v 3.1 expected.",
+    "Penalty scored: Conrad Harder (Strasbourg) 62'",
+    "Red card: Lamfia Dioubaté (Auxerre) 74'"
    ]
   },
   {
    "ko_nz": "Mon 02 Nov 03:00",
-   "league": "Serie A",
-   "match": "Lazio v Cagliari",
-   "pick": "Lazio win",
-   "chance": 0.64,
+   "league": "Serie B",
+   "match": "Arezzo v Ascoli",
+   "pick": "Ascoli win",
+   "chance": 0.425,
    "label": "Swing",
-   "called": "2-0",
-   "actual": "2-1",
-   "right": true,
+   "called": "0-1",
+   "actual": "0-0",
+   "right": false,
    "exact": false,
-   "goals": 3,
-   "over_chance": 0.55,
+   "goals": 0,
+   "over_chance": 0.501,
    "why": [
-    "Right: the model's pick (Lazio win) had 64%.",
-    "Red card: Adam Obert (Cagliari) 90+1'"
+    "Wrong: the model had Ascoli win at 42%; the actual result (draw) had 28%, an upset.",
+    "Goals well below forecast: 0 v 2.7 expected."
    ]
   },
   {
@@ -743,23 +1259,6 @@
   },
   {
    "ko_nz": "Mon 02 Nov 02:00",
-   "league": "Scottish Prem",
-   "match": "Falkirk v Celtic",
-   "pick": "Celtic win",
-   "chance": 0.657,
-   "label": "Swing",
-   "called": "1-2",
-   "actual": "2-0",
-   "right": false,
-   "exact": false,
-   "goals": 2,
-   "over_chance": 0.666,
-   "why": [
-    "Wrong: the model had Celtic win at 66%; the actual result (home win) had 15%, an upset."
-   ]
-  },
-  {
-   "ko_nz": "Mon 02 Nov 02:00",
    "league": "La Liga 2",
    "match": "Eldense v Granada",
    "pick": "Eldense win",
@@ -773,6 +1272,23 @@
    "over_chance": 0.51,
    "why": [
     "Wrong: the model had Eldense win at 40%; the actual result (away win) had 32%, a close call."
+   ]
+  },
+  {
+   "ko_nz": "Mon 02 Nov 02:00",
+   "league": "Scottish Prem",
+   "match": "Falkirk v Celtic",
+   "pick": "Celtic win",
+   "chance": 0.657,
+   "label": "Swing",
+   "called": "1-2",
+   "actual": "2-0",
+   "right": false,
+   "exact": false,
+   "goals": 2,
+   "over_chance": 0.666,
+   "why": [
+    "Wrong: the model had Celtic win at 66%; the actual result (home win) had 15%, an upset."
    ]
   },
   {
@@ -796,19 +1312,20 @@
   {
    "ko_nz": "Mon 02 Nov 01:30",
    "league": "Bundesliga 2",
-   "match": "St Pauli v Nurnberg",
-   "pick": "St Pauli win",
-   "chance": 0.428,
+   "match": "Hannover v Dresden",
+   "pick": "Hannover win",
+   "chance": 0.466,
    "label": "Swing",
    "called": "2-1",
-   "actual": "1-3",
-   "right": false,
-   "exact": false,
-   "goals": 4,
-   "over_chance": 0.571,
+   "actual": "2-1",
+   "right": true,
+   "exact": true,
+   "goals": 3,
+   "over_chance": 0.591,
    "why": [
-    "Wrong: the model had St Pauli win at 43%; the actual result (away win) had 31%, a close call.",
-    "Own goal: Eric Smith, goal to Nurnberg 7'"
+    "Right: the model's pick (Hannover win) had 47%.",
+    "Penalty scored: Marcel Hartel (Hannover) 61'",
+    "Red card: Friedrich Müller (Dresden) 65'"
    ]
   },
   {
@@ -833,20 +1350,19 @@
   {
    "ko_nz": "Mon 02 Nov 01:30",
    "league": "Bundesliga 2",
-   "match": "Hannover v Dresden",
-   "pick": "Hannover win",
-   "chance": 0.466,
+   "match": "St Pauli v Nurnberg",
+   "pick": "St Pauli win",
+   "chance": 0.428,
    "label": "Swing",
    "called": "2-1",
-   "actual": "2-1",
-   "right": true,
-   "exact": true,
-   "goals": 3,
-   "over_chance": 0.591,
+   "actual": "1-3",
+   "right": false,
+   "exact": false,
+   "goals": 4,
+   "over_chance": 0.571,
    "why": [
-    "Right: the model's pick (Hannover win) had 47%.",
-    "Penalty scored: Marcel Hartel (Hannover) 61'",
-    "Red card: Friedrich Müller (Dresden) 65'"
+    "Wrong: the model had St Pauli win at 43%; the actual result (away win) had 31%, a close call.",
+    "Own goal: Eric Smith, goal to Nurnberg 7'"
    ]
   },
   {
@@ -905,38 +1421,19 @@
   },
   {
    "ko_nz": "Sun 01 Nov 09:00",
-   "league": "La Liga",
-   "match": "Barcelona v Alaves",
-   "pick": "Barcelona win",
-   "chance": 0.869,
-   "label": "Banker",
-   "called": "4-0",
-   "actual": "6-1",
-   "right": true,
-   "exact": false,
-   "goals": 7,
-   "over_chance": 0.795,
-   "why": [
-    "Right: the model's pick (Barcelona win) had 87%.",
-    "Goals well above forecast: 7 v 4.3 expected."
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 09:00",
    "league": "Eredivisie",
-   "match": "Ajax v AZ Alkmaar",
-   "pick": "Ajax win",
-   "chance": 0.579,
+   "match": "Cambuur v Go Ahead Eagles",
+   "pick": "Go Ahead Eagles win",
+   "chance": 0.437,
    "label": "Swing",
-   "called": "2-1",
-   "actual": "1-0",
-   "right": true,
+   "called": "1-2",
+   "actual": "4-0",
+   "right": false,
    "exact": false,
-   "goals": 1,
-   "over_chance": 0.663,
+   "goals": 4,
+   "over_chance": 0.652,
    "why": [
-    "Right: the model's pick (Ajax win) had 58%.",
-    "Goals well below forecast: 1 v 3.5 expected."
+    "Wrong: the model had Go Ahead Eagles win at 44%; the actual result (home win) had 34%, a close call."
    ]
   },
   {
@@ -980,19 +1477,38 @@
   },
   {
    "ko_nz": "Sun 01 Nov 09:00",
-   "league": "Eredivisie",
-   "match": "Cambuur v Go Ahead Eagles",
-   "pick": "Go Ahead Eagles win",
-   "chance": 0.437,
-   "label": "Swing",
-   "called": "1-2",
-   "actual": "4-0",
-   "right": false,
+   "league": "La Liga",
+   "match": "Barcelona v Alaves",
+   "pick": "Barcelona win",
+   "chance": 0.869,
+   "label": "Banker",
+   "called": "4-0",
+   "actual": "6-1",
+   "right": true,
    "exact": false,
-   "goals": 4,
-   "over_chance": 0.652,
+   "goals": 7,
+   "over_chance": 0.795,
    "why": [
-    "Wrong: the model had Go Ahead Eagles win at 44%; the actual result (home win) had 34%, a close call."
+    "Right: the model's pick (Barcelona win) had 87%.",
+    "Goals well above forecast: 7 v 4.3 expected."
+   ]
+  },
+  {
+   "ko_nz": "Sun 01 Nov 09:00",
+   "league": "Eredivisie",
+   "match": "Ajax v AZ Alkmaar",
+   "pick": "Ajax win",
+   "chance": 0.579,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "1-0",
+   "right": true,
+   "exact": false,
+   "goals": 1,
+   "over_chance": 0.663,
+   "why": [
+    "Right: the model's pick (Ajax win) had 58%.",
+    "Goals well below forecast: 1 v 3.5 expected."
    ]
   },
   {
@@ -1119,60 +1635,6 @@
   },
   {
    "ko_nz": "Sun 01 Nov 06:30",
-   "league": "La Liga 2",
-   "match": "Celta B v Cordoba",
-   "pick": "Cordoba win",
-   "chance": 0.508,
-   "label": "Swing",
-   "called": "1-2",
-   "actual": "2-2",
-   "right": false,
-   "exact": false,
-   "goals": 4,
-   "over_chance": 0.643,
-   "why": [
-    "Wrong: the model had Cordoba win at 51%; the actual result (draw) had 23%, an upset.",
-    "Red card: Álex Martín (Cordoba) 45+2'",
-    "Red card: Ismael Ruiz Sánchez (Cordoba) 85'"
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 06:30",
-   "league": "La Liga",
-   "match": "Real Betis v Malaga",
-   "pick": "Real Betis win",
-   "chance": 0.735,
-   "label": "Banker",
-   "called": "2-0",
-   "actual": "2-1",
-   "right": true,
-   "exact": false,
-   "goals": 3,
-   "over_chance": 0.64,
-   "why": [
-    "Right: the model's pick (Real Betis win) had 74%."
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 06:30",
-   "league": "EPL",
-   "match": "Tottenham v Crystal Palace",
-   "pick": "Tottenham win",
-   "chance": 0.587,
-   "label": "Swing",
-   "called": "2-0",
-   "actual": "2-0",
-   "right": true,
-   "exact": true,
-   "goals": 2,
-   "over_chance": 0.563,
-   "why": [
-    "Right: the model's pick (Tottenham win) had 59%.",
-    "Red card: Jean-Philippe Mateta (Crystal Palace) 13'"
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 06:30",
    "league": "Bundesliga",
    "match": "Bayern Munich v Borussia Dortmund",
    "pick": "Bayern Munich win",
@@ -1189,480 +1651,18 @@
     "Penalty missed: Harry Kane (Bayern Munich) 56'",
     "Decided late: 1 goal(s) from the 85th minute changed the result"
    ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 06:00",
-   "league": "Serie A",
-   "match": "Udinese v Roma",
-   "pick": "Roma win",
-   "chance": 0.594,
-   "label": "Swing",
-   "called": "0-2",
-   "actual": "2-5",
-   "right": true,
-   "exact": false,
-   "goals": 7,
-   "over_chance": 0.604,
-   "why": [
-    "Right: the model's pick (Roma win) had 59%.",
-    "Goals well above forecast: 7 v 3.1 expected."
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 05:15",
-   "league": "Serie B",
-   "match": "Catanzaro v Padova",
-   "pick": "Catanzaro win",
-   "chance": 0.419,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "1-1",
-   "right": false,
-   "exact": false,
-   "goals": 2,
-   "over_chance": 0.527,
-   "why": [
-    "Wrong: the model had Catanzaro win at 42%; the actual result (draw) had 28%, an upset."
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:30",
-   "league": "Primeira Liga",
-   "match": "Moreirense v Estrela",
-   "pick": "Estrela win",
-   "chance": 0.377,
-   "label": "Swing",
-   "called": "0-1",
-   "actual": "2-1",
-   "right": false,
-   "exact": false,
-   "goals": 3,
-   "over_chance": 0.418,
-   "why": [
-    "Wrong: the model had Estrela win at 38%; the actual result (home win) had 32%, a close call.",
-    "Decided late: 1 goal(s) from the 85th minute changed the result"
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:30",
-   "league": "Eredivisie",
-   "match": "Feyenoord v For Sittard",
-   "pick": "Feyenoord win",
-   "chance": 0.825,
-   "label": "Banker",
-   "called": "3-0",
-   "actual": "1-1",
-   "right": false,
-   "exact": false,
-   "goals": 2,
-   "over_chance": 0.774,
-   "why": [
-    "Wrong: the model had Feyenoord win at 82%; the actual result (draw) had 11%, a big upset.",
-    "Goals well below forecast: 2 v 4.0 expected.",
-    "Decided late: 1 goal(s) from the 85th minute changed the result"
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:15",
-   "league": "La Liga 2",
-   "match": "Eibar v Almeria",
-   "pick": "Almeria win",
-   "chance": 0.396,
-   "label": "Swing",
-   "called": "1-2",
-   "actual": "1-1",
-   "right": false,
-   "exact": false,
-   "goals": 2,
-   "over_chance": 0.573,
-   "why": [
-    "Wrong: the model had Almeria win at 40%; the actual result (draw) had 25%, an upset.",
-    "Decided late: 1 goal(s) from the 85th minute changed the result"
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:15",
-   "league": "La Liga",
-   "match": "Rayo Vallecano v Celta Vigo",
-   "pick": "Rayo Vallecano win",
-   "chance": 0.382,
-   "label": "Swing",
-   "called": "1-0",
-   "actual": "3-0",
-   "right": true,
-   "exact": false,
-   "goals": 3,
-   "over_chance": 0.432,
-   "why": [
-    "Right: the model's pick (Rayo Vallecano win) had 38%."
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:00",
-   "league": "Scottish Prem",
-   "match": "Kilmarnock v St Johnstone",
-   "pick": "Kilmarnock win",
-   "chance": 0.43,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "2-2",
-   "right": false,
-   "exact": false,
-   "goals": 4,
-   "over_chance": 0.571,
-   "why": [
-    "Wrong: the model had Kilmarnock win at 43%; the actual result (draw) had 26%, an upset.",
-    "Red card: Toby Steward (St Johnstone) 13'"
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:00",
-   "league": "Championship",
-   "match": "Swansea v Blackburn",
-   "pick": "Swansea win",
-   "chance": 0.555,
-   "label": "Swing",
-   "called": "2-0",
-   "actual": "4-0",
-   "right": true,
-   "exact": false,
-   "goals": 4,
-   "over_chance": 0.488,
-   "why": [
-    "Right: the model's pick (Swansea win) had 56%."
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:00",
-   "league": "Championship",
-   "match": "Southampton v QPR",
-   "pick": "Southampton win",
-   "chance": 0.516,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "4-1",
-   "right": true,
-   "exact": false,
-   "goals": 5,
-   "over_chance": 0.616,
-   "why": [
-    "Right: the model's pick (Southampton win) had 52%."
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:00",
-   "league": "Championship",
-   "match": "Bolton v Bristol City",
-   "pick": "Bristol City win",
-   "chance": 0.398,
-   "label": "Swing",
-   "called": "1-2",
-   "actual": "2-3",
-   "right": true,
-   "exact": false,
-   "goals": 5,
-   "over_chance": 0.53,
-   "why": [
-    "Right: the model's pick (Bristol City win) had 40%.",
-    "Goals well above forecast: 5 v 2.8 expected.",
-    "Decided late: 1 goal(s) from the 85th minute changed the result"
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:00",
-   "league": "Championship",
-   "match": "Millwall v Derby",
-   "pick": "Millwall win",
-   "chance": 0.546,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "4-1",
-   "right": true,
-   "exact": false,
-   "goals": 5,
-   "over_chance": 0.524,
-   "why": [
-    "Right: the model's pick (Millwall win) had 55%.",
-    "Goals well above forecast: 5 v 2.8 expected."
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:00",
-   "league": "EPL",
-   "match": "Bournemouth v Leeds United",
-   "pick": "Bournemouth win",
-   "chance": 0.448,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "2-0",
-   "right": true,
-   "exact": false,
-   "goals": 2,
-   "over_chance": 0.535,
-   "why": [
-    "Right: the model's pick (Bournemouth win) had 45%."
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:00",
-   "league": "Championship",
-   "match": "West Ham United v West Brom",
-   "pick": "West Ham United win",
-   "chance": 0.596,
-   "label": "Swing",
-   "called": "2-0",
-   "actual": "1-3",
-   "right": false,
-   "exact": false,
-   "goals": 4,
-   "over_chance": 0.572,
-   "why": [
-    "Wrong: the model had West Ham United win at 60%; the actual result (away win) had 19%, an upset."
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:00",
-   "league": "Championship",
-   "match": "Wolverhampton Wanderers v Cardiff",
-   "pick": "Wolverhampton Wanderers win",
-   "chance": 0.565,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "3-0",
-   "right": true,
-   "exact": false,
-   "goals": 3,
-   "over_chance": 0.637,
-   "why": [
-    "Right: the model's pick (Wolverhampton Wanderers win) had 56%."
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:00",
-   "league": "EPL",
-   "match": "Brentford v Nottingham Forest",
-   "pick": "Brentford win",
-   "chance": 0.475,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "2-0",
-   "right": true,
-   "exact": false,
-   "goals": 2,
-   "over_chance": 0.538,
-   "why": [
-    "Right: the model's pick (Brentford win) had 48%.",
-    "Own goal: Nikola Milenković, goal to Brentford 30'"
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:00",
-   "league": "Championship",
-   "match": "Middlesbrough v Charlton",
-   "pick": "Middlesbrough win",
-   "chance": 0.758,
-   "label": "Banker",
-   "called": "2-0",
-   "actual": "3-0",
-   "right": true,
-   "exact": false,
-   "goals": 3,
-   "over_chance": 0.67,
-   "why": [
-    "Right: the model's pick (Middlesbrough win) had 76%."
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:00",
-   "league": "EPL",
-   "match": "Manchester City v Brighton",
-   "pick": "Manchester City win",
-   "chance": 0.62,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "0-1",
-   "right": false,
-   "exact": false,
-   "goals": 1,
-   "over_chance": 0.696,
-   "why": [
-    "Wrong: the model had Manchester City win at 62%; the actual result (away win) had 17%, an upset.",
-    "Goals well below forecast: 1 v 3.5 expected."
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:00",
-   "league": "Championship",
-   "match": "Burnley v Portsmouth",
-   "pick": "Burnley win",
-   "chance": 0.416,
-   "label": "Swing",
-   "called": "1-0",
-   "actual": "0-0",
-   "right": false,
-   "exact": false,
-   "goals": 0,
-   "over_chance": 0.473,
-   "why": [
-    "Wrong: the model had Burnley win at 42%; the actual result (draw) had 29%, an upset.",
-    "Goals well below forecast: 0 v 2.6 expected."
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:00",
-   "league": "EPL",
-   "match": "Coventry City v Sunderland",
-   "pick": "Sunderland win",
-   "chance": 0.412,
-   "label": "Swing",
-   "called": "0-1",
-   "actual": "3-1",
-   "right": false,
-   "exact": false,
-   "goals": 4,
-   "over_chance": 0.472,
-   "why": [
-    "Wrong: the model had Sunderland win at 41%; the actual result (home win) had 30%, a close call.",
-    "Penalty scored: Enzo Le Fée (Sunderland) 67'",
-    "Red card: Omar Alderete (Sunderland) 90+9'"
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:00",
-   "league": "Scottish Prem",
-   "match": "Motherwell v St Mirren",
-   "pick": "Motherwell win",
-   "chance": 0.503,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "1-0",
-   "right": true,
-   "exact": false,
-   "goals": 1,
-   "over_chance": 0.596,
-   "why": [
-    "Right: the model's pick (Motherwell win) had 50%.",
-    "Goals well below forecast: 1 v 3.1 expected.",
-    "Penalty scored: Lukas Fadinger (Motherwell) 82'"
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 04:00",
-   "league": "EPL",
-   "match": "Hull City v Ipswich Town",
-   "pick": "Ipswich Town win",
-   "chance": 0.38,
-   "label": "Swing",
-   "called": "1-2",
-   "actual": "2-2",
-   "right": false,
-   "exact": false,
-   "goals": 4,
-   "over_chance": 0.529,
-   "why": [
-    "Wrong: the model had Ipswich Town win at 38%; the actual result (draw) had 27%, an upset."
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 03:30",
-   "league": "Bundesliga",
-   "match": "Werder Bremen v Hoffenheim",
-   "pick": "Hoffenheim win",
-   "chance": 0.436,
-   "label": "Swing",
-   "called": "1-2",
-   "actual": "2-0",
-   "right": false,
-   "exact": false,
-   "goals": 2,
-   "over_chance": 0.718,
-   "why": [
-    "Wrong: the model had Hoffenheim win at 44%; the actual result (home win) had 34%, a close call."
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 03:30",
-   "league": "Bundesliga",
-   "match": "Bayer Leverkusen v VfB Stuttgart",
-   "pick": "Bayer Leverkusen win",
-   "chance": 0.524,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "2-4",
-   "right": false,
-   "exact": false,
-   "goals": 6,
-   "over_chance": 0.752,
-   "why": [
-    "Wrong: the model had Bayer Leverkusen win at 52%; the actual result (away win) had 26%, an upset.",
-    "Goals well above forecast: 6 v 3.8 expected."
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 03:30",
-   "league": "Bundesliga",
-   "match": "Schalke 04 v RB Leipzig",
-   "pick": "RB Leipzig win",
-   "chance": 0.551,
-   "label": "Swing",
-   "called": "1-2",
-   "actual": "0-2",
-   "right": true,
-   "exact": false,
-   "goals": 2,
-   "over_chance": 0.654,
-   "why": [
-    "Right: the model's pick (RB Leipzig win) had 55%.",
-    "Penalty scored: Antonio Nusa (RB Leipzig) 37'"
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 03:30",
-   "league": "Bundesliga",
-   "match": "Borussia Monchengladbach v Paderborn",
-   "pick": "Borussia Monchengladbach win",
-   "chance": 0.473,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "0-0",
-   "right": false,
-   "exact": false,
-   "goals": 0,
-   "over_chance": 0.651,
-   "why": [
-    "Wrong: the model had Borussia Monchengladbach win at 47%; the actual result (draw) had 23%, an upset.",
-    "Goals well below forecast: 0 v 3.3 expected."
-   ]
-  },
-  {
-   "ko_nz": "Sun 01 Nov 03:30",
-   "league": "Bundesliga",
-   "match": "Augsburg v Freiburg",
-   "pick": "Freiburg win",
-   "chance": 0.446,
-   "label": "Swing",
-   "called": "1-2",
-   "actual": "1-2",
-   "right": true,
-   "exact": true,
-   "goals": 3,
-   "over_chance": 0.659,
-   "why": [
-    "Right: the model's pick (Freiburg win) had 45%.",
-    "Decided late: 1 goal(s) from the 85th minute changed the result"
-   ]
   }
  ],
  "misses": {
-  "total": 126,
-  "red_card": 20,
-  "penalty": 24,
+  "total": 138,
+  "red_card": 21,
+  "penalty": 29,
   "late": 19,
   "big_upset": 9,
-  "upset": 90,
-  "close": 27,
-  "goals_high": 41,
-  "goals_low": 34,
+  "upset": 96,
+  "close": 33,
+  "goals_high": 46,
+  "goals_low": 37,
   "with_lesson": 8
  },
  "note": "Every game graded on two agreeing sources since 16 Oct 2026, with the pick frozen before kick-off. Below 100 games a gap is watched, not acted on; any model change needs David's approval. Log loss compares the model with the margin-free bookmaker prices: lower is better."
