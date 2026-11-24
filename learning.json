@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24 05:33 NZ",
+ "updated": "2026-11-24 20:09 NZ",
  "since": "2026-10-16",
  "min_games_to_act": 100,
  "headline": {
@@ -230,24 +230,6 @@
  "recent": [
   {
    "ko_nz": "Tue 24 Nov 09:00",
-   "league": "La Liga",
-   "match": "Levante v Elche",
-   "pick": "Levante win",
-   "chance": 0.457,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "1-1",
-   "right": false,
-   "exact": false,
-   "goals": 2,
-   "over_chance": 0.579,
-   "why": [
-    "Wrong: the model had Levante win at 46%; the actual result (draw) had 25%, an upset.",
-    "Match events: UNKNOWN (no event feed for this game)."
-   ]
-  },
-  {
-   "ko_nz": "Tue 24 Nov 09:00",
    "league": "EPL",
    "match": "Brentford v Everton",
    "pick": "Brentford win",
@@ -261,6 +243,24 @@
    "over_chance": 0.554,
    "why": [
     "Right: the model's pick (Brentford win) had 45%.",
+    "Match events: UNKNOWN (no event feed for this game)."
+   ]
+  },
+  {
+   "ko_nz": "Tue 24 Nov 09:00",
+   "league": "La Liga",
+   "match": "Levante v Elche",
+   "pick": "Levante win",
+   "chance": 0.457,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "1-1",
+   "right": false,
+   "exact": false,
+   "goals": 2,
+   "over_chance": 0.579,
+   "why": [
+    "Wrong: the model had Levante win at 46%; the actual result (draw) had 25%, an upset.",
     "Match events: UNKNOWN (no event feed for this game)."
    ]
   },
@@ -302,24 +302,6 @@
   },
   {
    "ko_nz": "Mon 23 Nov 08:45",
-   "league": "Ligue 1",
-   "match": "Marseille v Le Mans",
-   "pick": "Marseille win",
-   "chance": 0.661,
-   "label": "Swing",
-   "called": "2-0",
-   "actual": "2-3",
-   "right": false,
-   "exact": false,
-   "goals": 5,
-   "over_chance": 0.621,
-   "why": [
-    "Wrong: the model had Marseille win at 66%; the actual result (away win) had 14%, a big upset.",
-    "Match events: UNKNOWN (no event feed for this game)."
-   ]
-  },
-  {
-   "ko_nz": "Mon 23 Nov 08:45",
    "league": "Serie A",
    "match": "Atalanta v Inter",
    "pick": "Inter win",
@@ -334,6 +316,24 @@
    "why": [
     "Wrong: the model had Inter win at 60%; the actual result (draw) had 21%, an upset.",
     "Goals well above forecast: 8 v 3.6 expected.",
+    "Match events: UNKNOWN (no event feed for this game)."
+   ]
+  },
+  {
+   "ko_nz": "Mon 23 Nov 08:45",
+   "league": "Ligue 1",
+   "match": "Marseille v Le Mans",
+   "pick": "Marseille win",
+   "chance": 0.661,
+   "label": "Swing",
+   "called": "2-0",
+   "actual": "2-3",
+   "right": false,
+   "exact": false,
+   "goals": 5,
+   "over_chance": 0.621,
+   "why": [
+    "Wrong: the model had Marseille win at 66%; the actual result (away win) had 14%, a big upset.",
     "Match events: UNKNOWN (no event feed for this game)."
    ]
   },
@@ -503,6 +503,24 @@
   },
   {
    "ko_nz": "Mon 23 Nov 03:00",
+   "league": "Serie A",
+   "match": "Sassuolo v Genoa",
+   "pick": "Genoa win",
+   "chance": 0.369,
+   "label": "Swing",
+   "called": "1-2",
+   "actual": "0-2",
+   "right": true,
+   "exact": false,
+   "goals": 2,
+   "over_chance": 0.508,
+   "why": [
+    "Right: the model's pick (Genoa win) had 37%.",
+    "Match events: UNKNOWN (no event feed for this game)."
+   ]
+  },
+  {
+   "ko_nz": "Mon 23 Nov 03:00",
    "league": "Ligue 1",
    "match": "Paris FC v Angers",
    "pick": "Paris FC win",
@@ -538,20 +556,21 @@
    ]
   },
   {
-   "ko_nz": "Mon 23 Nov 03:00",
-   "league": "Serie A",
-   "match": "Sassuolo v Genoa",
-   "pick": "Genoa win",
-   "chance": 0.369,
+   "ko_nz": "Mon 23 Nov 02:30",
+   "league": "Eredivisie",
+   "match": "Sparta Rotterdam v AZ Alkmaar",
+   "pick": "AZ Alkmaar win",
+   "chance": 0.57,
    "label": "Swing",
    "called": "1-2",
-   "actual": "0-2",
+   "actual": "1-5",
    "right": true,
    "exact": false,
-   "goals": 2,
-   "over_chance": 0.508,
+   "goals": 6,
+   "over_chance": 0.664,
    "why": [
-    "Right: the model's pick (Genoa win) had 37%.",
+    "Right: the model's pick (AZ Alkmaar win) had 57%.",
+    "Goals well above forecast: 6 v 3.5 expected.",
     "Match events: UNKNOWN (no event feed for this game)."
    ]
   },
@@ -570,25 +589,6 @@
    "over_chance": 0.749,
    "why": [
     "Right: the model's pick (Ajax win) had 81%.",
-    "Match events: UNKNOWN (no event feed for this game)."
-   ]
-  },
-  {
-   "ko_nz": "Mon 23 Nov 02:30",
-   "league": "Eredivisie",
-   "match": "Sparta Rotterdam v AZ Alkmaar",
-   "pick": "AZ Alkmaar win",
-   "chance": 0.57,
-   "label": "Swing",
-   "called": "1-2",
-   "actual": "1-5",
-   "right": true,
-   "exact": false,
-   "goals": 6,
-   "over_chance": 0.664,
-   "why": [
-    "Right: the model's pick (AZ Alkmaar win) had 57%.",
-    "Goals well above forecast: 6 v 3.5 expected.",
     "Match events: UNKNOWN (no event feed for this game)."
    ]
   },
@@ -666,19 +666,19 @@
   },
   {
    "ko_nz": "Sun 22 Nov 09:00",
-   "league": "La Liga",
-   "match": "Real Madrid v Celta Vigo",
-   "pick": "Real Madrid win",
-   "chance": 0.804,
-   "label": "Banker",
-   "called": "2-0",
-   "actual": "2-1",
-   "right": true,
+   "league": "Eredivisie",
+   "match": "Telstar v Zwolle",
+   "pick": "Telstar win",
+   "chance": 0.484,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "1-3",
+   "right": false,
    "exact": false,
-   "goals": 3,
-   "over_chance": 0.686,
+   "goals": 4,
+   "over_chance": 0.591,
    "why": [
-    "Right: the model's pick (Real Madrid win) had 80%.",
+    "Wrong: the model had Telstar win at 48%; the actual result (away win) had 30%, an upset.",
     "Match events: UNKNOWN (no event feed for this game)."
    ]
   },
@@ -702,55 +702,19 @@
   },
   {
    "ko_nz": "Sun 22 Nov 09:00",
-   "league": "Eredivisie",
-   "match": "Telstar v Zwolle",
-   "pick": "Telstar win",
-   "chance": 0.484,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "1-3",
-   "right": false,
+   "league": "La Liga",
+   "match": "Real Madrid v Celta Vigo",
+   "pick": "Real Madrid win",
+   "chance": 0.804,
+   "label": "Banker",
+   "called": "2-0",
+   "actual": "2-1",
+   "right": true,
    "exact": false,
-   "goals": 4,
-   "over_chance": 0.591,
+   "goals": 3,
+   "over_chance": 0.686,
    "why": [
-    "Wrong: the model had Telstar win at 48%; the actual result (away win) had 30%, an upset.",
-    "Match events: UNKNOWN (no event feed for this game)."
-   ]
-  },
-  {
-   "ko_nz": "Sun 22 Nov 08:45",
-   "league": "Ligue 1",
-   "match": "Strasbourg v Brest",
-   "pick": "Strasbourg win",
-   "chance": 0.435,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "0-1",
-   "right": false,
-   "exact": false,
-   "goals": 1,
-   "over_chance": 0.585,
-   "why": [
-    "Wrong: the model had Strasbourg win at 44%; the actual result (away win) had 32%, a close call.",
-    "Match events: UNKNOWN (no event feed for this game)."
-   ]
-  },
-  {
-   "ko_nz": "Sun 22 Nov 08:45",
-   "league": "Ligue 1",
-   "match": "Lille v Lyon",
-   "pick": "Lille win",
-   "chance": 0.43,
-   "label": "Swing",
-   "called": "1-0",
-   "actual": "0-1",
-   "right": false,
-   "exact": false,
-   "goals": 1,
-   "over_chance": 0.464,
-   "why": [
-    "Wrong: the model had Lille win at 43%; the actual result (away win) had 29%, an upset.",
+    "Right: the model's pick (Real Madrid win) had 80%.",
     "Match events: UNKNOWN (no event feed for this game)."
    ]
   },
@@ -787,6 +751,42 @@
    "over_chance": 0.64,
    "why": [
     "Wrong: the model had Monaco win at 65%; the actual result (draw) had 21%, an upset.",
+    "Match events: UNKNOWN (no event feed for this game)."
+   ]
+  },
+  {
+   "ko_nz": "Sun 22 Nov 08:45",
+   "league": "Ligue 1",
+   "match": "Strasbourg v Brest",
+   "pick": "Strasbourg win",
+   "chance": 0.435,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "0-1",
+   "right": false,
+   "exact": false,
+   "goals": 1,
+   "over_chance": 0.585,
+   "why": [
+    "Wrong: the model had Strasbourg win at 44%; the actual result (away win) had 32%, a close call.",
+    "Match events: UNKNOWN (no event feed for this game)."
+   ]
+  },
+  {
+   "ko_nz": "Sun 22 Nov 08:45",
+   "league": "Ligue 1",
+   "match": "Lille v Lyon",
+   "pick": "Lille win",
+   "chance": 0.43,
+   "label": "Swing",
+   "called": "1-0",
+   "actual": "0-1",
+   "right": false,
+   "exact": false,
+   "goals": 1,
+   "over_chance": 0.464,
+   "why": [
+    "Wrong: the model had Lille win at 43%; the actual result (away win) had 29%, an upset.",
     "Match events: UNKNOWN (no event feed for this game)."
    ]
   },
@@ -846,25 +846,6 @@
   },
   {
    "ko_nz": "Sun 22 Nov 06:30",
-   "league": "Bundesliga",
-   "match": "Schalke 04 v VfB Stuttgart",
-   "pick": "VfB Stuttgart win",
-   "chance": 0.543,
-   "label": "Swing",
-   "called": "1-2",
-   "actual": "0-0",
-   "right": false,
-   "exact": false,
-   "goals": 0,
-   "over_chance": 0.636,
-   "why": [
-    "Wrong: the model had VfB Stuttgart win at 54%; the actual result (draw) had 21%, an upset.",
-    "Goals well below forecast: 0 v 3.3 expected.",
-    "Match events: UNKNOWN (no event feed for this game)."
-   ]
-  },
-  {
-   "ko_nz": "Sun 22 Nov 06:30",
    "league": "EPL",
    "match": "Newcastle United v Arsenal",
    "pick": "Arsenal win",
@@ -896,6 +877,25 @@
    "over_chance": 0.508,
    "why": [
     "Wrong: the model had Real Betis win at 39%; the actual result (draw) had 28%, an upset.",
+    "Match events: UNKNOWN (no event feed for this game)."
+   ]
+  },
+  {
+   "ko_nz": "Sun 22 Nov 06:30",
+   "league": "Bundesliga",
+   "match": "Schalke 04 v VfB Stuttgart",
+   "pick": "VfB Stuttgart win",
+   "chance": 0.543,
+   "label": "Swing",
+   "called": "1-2",
+   "actual": "0-0",
+   "right": false,
+   "exact": false,
+   "goals": 0,
+   "over_chance": 0.636,
+   "why": [
+    "Wrong: the model had VfB Stuttgart win at 54%; the actual result (draw) had 21%, an upset.",
+    "Goals well below forecast: 0 v 3.3 expected.",
     "Match events: UNKNOWN (no event feed for this game)."
    ]
   },
@@ -974,19 +974,92 @@
   },
   {
    "ko_nz": "Sun 22 Nov 04:00",
-   "league": "Championship",
-   "match": "Wolverhampton Wanderers v Charlton",
-   "pick": "Wolverhampton Wanderers win",
-   "chance": 0.702,
+   "league": "EPL",
+   "match": "Bournemouth v Nottingham Forest",
+   "pick": "Bournemouth win",
+   "chance": 0.494,
    "label": "Swing",
-   "called": "2-0",
-   "actual": "2-1",
+   "called": "1-0",
+   "actual": "2-0",
    "right": true,
    "exact": false,
-   "goals": 3,
-   "over_chance": 0.553,
+   "goals": 2,
+   "over_chance": 0.51,
    "why": [
-    "Right: the model's pick (Wolverhampton Wanderers win) had 70%.",
+    "Right: the model's pick (Bournemouth win) had 49%.",
+    "Match events: UNKNOWN (no event feed for this game)."
+   ]
+  },
+  {
+   "ko_nz": "Sun 22 Nov 04:00",
+   "league": "EPL",
+   "match": "Chelsea v Leeds United",
+   "pick": "Chelsea win",
+   "chance": 0.505,
+   "label": "Swing",
+   "called": "1-0",
+   "actual": "1-4",
+   "right": false,
+   "exact": false,
+   "goals": 5,
+   "over_chance": 0.508,
+   "why": [
+    "Wrong: the model had Chelsea win at 50%; the actual result (away win) had 23%, an upset.",
+    "Goals well above forecast: 5 v 2.7 expected.",
+    "Match events: UNKNOWN (no event feed for this game)."
+   ]
+  },
+  {
+   "ko_nz": "Sun 22 Nov 04:00",
+   "league": "Championship",
+   "match": "Bolton v Portsmouth",
+   "pick": "Portsmouth win",
+   "chance": 0.401,
+   "label": "Swing",
+   "called": "0-1",
+   "actual": "1-1",
+   "right": false,
+   "exact": false,
+   "goals": 2,
+   "over_chance": 0.495,
+   "why": [
+    "Wrong: the model had Portsmouth win at 40%; the actual result (draw) had 28%, an upset.",
+    "Match events: UNKNOWN (no event feed for this game)."
+   ]
+  },
+  {
+   "ko_nz": "Sun 22 Nov 04:00",
+   "league": "Championship",
+   "match": "Middlesbrough v Bristol City",
+   "pick": "Middlesbrough win",
+   "chance": 0.678,
+   "label": "Swing",
+   "called": "2-0",
+   "actual": "2-0",
+   "right": true,
+   "exact": true,
+   "goals": 2,
+   "over_chance": 0.61,
+   "why": [
+    "Right: the model's pick (Middlesbrough win) had 68%.",
+    "Match events: UNKNOWN (no event feed for this game)."
+   ]
+  },
+  {
+   "ko_nz": "Sun 22 Nov 04:00",
+   "league": "Championship",
+   "match": "Lincoln v Wrexham",
+   "pick": "Wrexham win",
+   "chance": 0.353,
+   "label": "Swing",
+   "called": "0-1",
+   "actual": "0-1",
+   "right": true,
+   "exact": true,
+   "goals": 1,
+   "over_chance": 0.447,
+   "why": [
+    "Right: the model's pick (Wrexham win) had 35%.",
     "Match events: UNKNOWN (no event feed for this game)."
    ]
   },
@@ -1012,54 +1085,18 @@
   {
    "ko_nz": "Sun 22 Nov 04:00",
    "league": "Championship",
-   "match": "Sheffield United v Watford",
-   "pick": "Sheffield United win",
-   "chance": 0.611,
-   "label": "Swing",
-   "called": "2-0",
-   "actual": "4-0",
-   "right": true,
-   "exact": false,
-   "goals": 4,
-   "over_chance": 0.511,
-   "why": [
-    "Right: the model's pick (Sheffield United win) had 61%.",
-    "Match events: UNKNOWN (no event feed for this game)."
-   ]
-  },
-  {
-   "ko_nz": "Sun 22 Nov 04:00",
-   "league": "Championship",
-   "match": "West Ham United v Preston",
-   "pick": "West Ham United win",
-   "chance": 0.791,
-   "label": "Banker",
-   "called": "3-0",
-   "actual": "1-1",
-   "right": false,
-   "exact": false,
-   "goals": 2,
-   "over_chance": 0.738,
-   "why": [
-    "Wrong: the model had West Ham United win at 79%; the actual result (draw) had 13%, a big upset.",
-    "Match events: UNKNOWN (no event feed for this game)."
-   ]
-  },
-  {
-   "ko_nz": "Sun 22 Nov 04:00",
-   "league": "EPL",
-   "match": "Bournemouth v Nottingham Forest",
-   "pick": "Bournemouth win",
-   "chance": 0.494,
+   "match": "Swansea v West Brom",
+   "pick": "Swansea win",
+   "chance": 0.376,
    "label": "Swing",
    "called": "1-0",
-   "actual": "2-0",
-   "right": true,
+   "actual": "2-2",
+   "right": false,
    "exact": false,
-   "goals": 2,
-   "over_chance": 0.51,
+   "goals": 4,
+   "over_chance": 0.483,
    "why": [
-    "Right: the model's pick (Bournemouth win) had 49%.",
+    "Wrong: the model had Swansea win at 38%; the actual result (draw) had 27%, an upset.",
     "Match events: UNKNOWN (no event feed for this game)."
    ]
   },
@@ -1103,91 +1140,18 @@
   {
    "ko_nz": "Sun 22 Nov 04:00",
    "league": "Championship",
-   "match": "Lincoln v Wrexham",
-   "pick": "Wrexham win",
-   "chance": 0.353,
-   "label": "Swing",
-   "called": "0-1",
-   "actual": "0-1",
-   "right": true,
-   "exact": true,
-   "goals": 1,
-   "over_chance": 0.447,
-   "why": [
-    "Right: the model's pick (Wrexham win) had 35%.",
-    "Match events: UNKNOWN (no event feed for this game)."
-   ]
-  },
-  {
-   "ko_nz": "Sun 22 Nov 04:00",
-   "league": "Championship",
-   "match": "Bolton v Portsmouth",
-   "pick": "Portsmouth win",
-   "chance": 0.401,
-   "label": "Swing",
-   "called": "0-1",
-   "actual": "1-1",
-   "right": false,
-   "exact": false,
-   "goals": 2,
-   "over_chance": 0.495,
-   "why": [
-    "Wrong: the model had Portsmouth win at 40%; the actual result (draw) had 28%, an upset.",
-    "Match events: UNKNOWN (no event feed for this game)."
-   ]
-  },
-  {
-   "ko_nz": "Sun 22 Nov 04:00",
-   "league": "Championship",
-   "match": "Swansea v West Brom",
-   "pick": "Swansea win",
-   "chance": 0.376,
-   "label": "Swing",
-   "called": "1-0",
-   "actual": "2-2",
-   "right": false,
-   "exact": false,
-   "goals": 4,
-   "over_chance": 0.483,
-   "why": [
-    "Wrong: the model had Swansea win at 38%; the actual result (draw) had 27%, an upset.",
-    "Match events: UNKNOWN (no event feed for this game)."
-   ]
-  },
-  {
-   "ko_nz": "Sun 22 Nov 04:00",
-   "league": "Championship",
-   "match": "Middlesbrough v Bristol City",
-   "pick": "Middlesbrough win",
-   "chance": 0.678,
+   "match": "Wolverhampton Wanderers v Charlton",
+   "pick": "Wolverhampton Wanderers win",
+   "chance": 0.702,
    "label": "Swing",
    "called": "2-0",
-   "actual": "2-0",
+   "actual": "2-1",
    "right": true,
-   "exact": true,
-   "goals": 2,
-   "over_chance": 0.61,
-   "why": [
-    "Right: the model's pick (Middlesbrough win) had 68%.",
-    "Match events: UNKNOWN (no event feed for this game)."
-   ]
-  },
-  {
-   "ko_nz": "Sun 22 Nov 04:00",
-   "league": "EPL",
-   "match": "Chelsea v Leeds United",
-   "pick": "Chelsea win",
-   "chance": 0.505,
-   "label": "Swing",
-   "called": "1-0",
-   "actual": "1-4",
-   "right": false,
    "exact": false,
-   "goals": 5,
-   "over_chance": 0.508,
+   "goals": 3,
+   "over_chance": 0.553,
    "why": [
-    "Wrong: the model had Chelsea win at 50%; the actual result (away win) had 23%, an upset.",
-    "Goals well above forecast: 5 v 2.7 expected.",
+    "Right: the model's pick (Wolverhampton Wanderers win) had 70%.",
     "Match events: UNKNOWN (no event feed for this game)."
    ]
   },
@@ -1210,59 +1174,38 @@
    ]
   },
   {
-   "ko_nz": "Sun 22 Nov 03:30",
-   "league": "Bundesliga",
-   "match": "Eintracht Frankfurt v Hoffenheim",
-   "pick": "Eintracht Frankfurt win",
-   "chance": 0.398,
+   "ko_nz": "Sun 22 Nov 04:00",
+   "league": "Championship",
+   "match": "Sheffield United v Watford",
+   "pick": "Sheffield United win",
+   "chance": 0.611,
    "label": "Swing",
-   "called": "2-1",
-   "actual": "1-0",
+   "called": "2-0",
+   "actual": "4-0",
    "right": true,
    "exact": false,
-   "goals": 1,
-   "over_chance": 0.728,
+   "goals": 4,
+   "over_chance": 0.511,
    "why": [
-    "Right: the model's pick (Eintracht Frankfurt win) had 40%.",
-    "Goals well below forecast: 1 v 3.8 expected.",
+    "Right: the model's pick (Sheffield United win) had 61%.",
     "Match events: UNKNOWN (no event feed for this game)."
    ]
   },
   {
-   "ko_nz": "Sun 22 Nov 03:30",
-   "league": "Bundesliga",
-   "match": "Union Berlin v RB Leipzig",
-   "pick": "RB Leipzig win",
-   "chance": 0.626,
-   "label": "Swing",
-   "called": "1-2",
-   "actual": "1-5",
-   "right": true,
+   "ko_nz": "Sun 22 Nov 04:00",
+   "league": "Championship",
+   "match": "West Ham United v Preston",
+   "pick": "West Ham United win",
+   "chance": 0.791,
+   "label": "Banker",
+   "called": "3-0",
+   "actual": "1-1",
+   "right": false,
    "exact": false,
-   "goals": 6,
-   "over_chance": 0.658,
+   "goals": 2,
+   "over_chance": 0.738,
    "why": [
-    "Right: the model's pick (RB Leipzig win) had 63%.",
-    "Goals well above forecast: 6 v 3.4 expected.",
-    "Match events: UNKNOWN (no event feed for this game)."
-   ]
-  },
-  {
-   "ko_nz": "Sun 22 Nov 03:30",
-   "league": "Bundesliga",
-   "match": "Borussia Monchengladbach v Borussia Dortmund",
-   "pick": "Borussia Dortmund win",
-   "chance": 0.608,
-   "label": "Swing",
-   "called": "1-2",
-   "actual": "0-1",
-   "right": true,
-   "exact": false,
-   "goals": 1,
-   "over_chance": 0.646,
-   "why": [
-    "Right: the model's pick (Borussia Dortmund win) had 61%.",
-    "Goals well below forecast: 1 v 3.3 expected.",
+    "Wrong: the model had West Ham United win at 79%; the actual result (draw) had 13%, a big upset.",
     "Match events: UNKNOWN (no event feed for this game)."
    ]
   },
@@ -1288,6 +1231,25 @@
   {
    "ko_nz": "Sun 22 Nov 03:30",
    "league": "Bundesliga",
+   "match": "Union Berlin v RB Leipzig",
+   "pick": "RB Leipzig win",
+   "chance": 0.626,
+   "label": "Swing",
+   "called": "1-2",
+   "actual": "1-5",
+   "right": true,
+   "exact": false,
+   "goals": 6,
+   "over_chance": 0.658,
+   "why": [
+    "Right: the model's pick (RB Leipzig win) had 63%.",
+    "Goals well above forecast: 6 v 3.4 expected.",
+    "Match events: UNKNOWN (no event feed for this game)."
+   ]
+  },
+  {
+   "ko_nz": "Sun 22 Nov 03:30",
+   "league": "Bundesliga",
    "match": "Bayer Leverkusen v Paderborn",
    "pick": "Bayer Leverkusen win",
    "chance": 0.744,
@@ -1304,20 +1266,40 @@
    ]
   },
   {
-   "ko_nz": "Sun 22 Nov 03:00",
-   "league": "Serie A",
-   "match": "Lazio v Lecce",
-   "pick": "Lazio win",
-   "chance": 0.698,
+   "ko_nz": "Sun 22 Nov 03:30",
+   "league": "Bundesliga",
+   "match": "Borussia Monchengladbach v Borussia Dortmund",
+   "pick": "Borussia Dortmund win",
+   "chance": 0.608,
    "label": "Swing",
-   "called": "2-0",
-   "actual": "3-0",
+   "called": "1-2",
+   "actual": "0-1",
    "right": true,
    "exact": false,
-   "goals": 3,
-   "over_chance": 0.607,
+   "goals": 1,
+   "over_chance": 0.646,
    "why": [
-    "Right: the model's pick (Lazio win) had 70%.",
+    "Right: the model's pick (Borussia Dortmund win) had 61%.",
+    "Goals well below forecast: 1 v 3.3 expected.",
+    "Match events: UNKNOWN (no event feed for this game)."
+   ]
+  },
+  {
+   "ko_nz": "Sun 22 Nov 03:30",
+   "league": "Bundesliga",
+   "match": "Eintracht Frankfurt v Hoffenheim",
+   "pick": "Eintracht Frankfurt win",
+   "chance": 0.398,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "1-0",
+   "right": true,
+   "exact": false,
+   "goals": 1,
+   "over_chance": 0.728,
+   "why": [
+    "Right: the model's pick (Eintracht Frankfurt win) had 40%.",
+    "Goals well below forecast: 1 v 3.8 expected.",
     "Match events: UNKNOWN (no event feed for this game)."
    ]
   },
@@ -1340,6 +1322,42 @@
    ]
   },
   {
+   "ko_nz": "Sun 22 Nov 03:00",
+   "league": "Serie A",
+   "match": "Lazio v Lecce",
+   "pick": "Lazio win",
+   "chance": 0.698,
+   "label": "Swing",
+   "called": "2-0",
+   "actual": "3-0",
+   "right": true,
+   "exact": false,
+   "goals": 3,
+   "over_chance": 0.607,
+   "why": [
+    "Right: the model's pick (Lazio win) had 70%.",
+    "Match events: UNKNOWN (no event feed for this game)."
+   ]
+  },
+  {
+   "ko_nz": "Sun 22 Nov 01:30",
+   "league": "Championship",
+   "match": "Southampton v Derby",
+   "pick": "Southampton win",
+   "chance": 0.704,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "2-0",
+   "right": true,
+   "exact": false,
+   "goals": 2,
+   "over_chance": 0.658,
+   "why": [
+    "Right: the model's pick (Southampton win) had 70%.",
+    "Match events: UNKNOWN (no event feed for this game)."
+   ]
+  },
+  {
    "ko_nz": "Sun 22 Nov 01:30",
    "league": "Championship",
    "match": "Millwall v QPR",
@@ -1354,24 +1372,6 @@
    "over_chance": 0.556,
    "why": [
     "Wrong: the model had Millwall win at 39%; the actual result (away win) had 34%, a close call.",
-    "Match events: UNKNOWN (no event feed for this game)."
-   ]
-  },
-  {
-   "ko_nz": "Sun 22 Nov 01:30",
-   "league": "Championship",
-   "match": "Norwich v Cardiff",
-   "pick": "Norwich win",
-   "chance": 0.529,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "2-1",
-   "right": true,
-   "exact": true,
-   "goals": 3,
-   "over_chance": 0.693,
-   "why": [
-    "Right: the model's pick (Norwich win) had 53%.",
     "Match events: UNKNOWN (no event feed for this game)."
    ]
   },
@@ -1396,18 +1396,18 @@
   {
    "ko_nz": "Sun 22 Nov 01:30",
    "league": "Championship",
-   "match": "Southampton v Derby",
-   "pick": "Southampton win",
-   "chance": 0.704,
+   "match": "Norwich v Cardiff",
+   "pick": "Norwich win",
+   "chance": 0.529,
    "label": "Swing",
    "called": "2-1",
-   "actual": "2-0",
+   "actual": "2-1",
    "right": true,
-   "exact": false,
-   "goals": 2,
-   "over_chance": 0.658,
+   "exact": true,
+   "goals": 3,
+   "over_chance": 0.693,
    "why": [
-    "Right: the model's pick (Southampton win) had 70%.",
+    "Right: the model's pick (Norwich win) had 53%.",
     "Match events: UNKNOWN (no event feed for this game)."
    ]
   },
@@ -1631,23 +1631,6 @@
   },
   {
    "ko_nz": "Mon 09 Nov 08:45",
-   "league": "Ligue 1",
-   "match": "Lens v Marseille",
-   "pick": "Lens win",
-   "chance": 0.383,
-   "label": "Swing",
-   "called": "2-1",
-   "actual": "1-2",
-   "right": false,
-   "exact": false,
-   "goals": 3,
-   "over_chance": 0.556,
-   "why": [
-    "Wrong: the model had Lens win at 38%; the actual result (away win) had 35%, a close call."
-   ]
-  },
-  {
-   "ko_nz": "Mon 09 Nov 08:45",
    "league": "Serie A",
    "match": "Fiorentina v Juventus",
    "pick": "Juventus win",
@@ -1661,6 +1644,23 @@
    "over_chance": 0.508,
    "why": [
     "Wrong: the model had Juventus win at 44%; the actual result (draw) had 27%, an upset."
+   ]
+  },
+  {
+   "ko_nz": "Mon 09 Nov 08:45",
+   "league": "Ligue 1",
+   "match": "Lens v Marseille",
+   "pick": "Lens win",
+   "chance": 0.383,
+   "label": "Swing",
+   "called": "2-1",
+   "actual": "1-2",
+   "right": false,
+   "exact": false,
+   "goals": 3,
+   "over_chance": 0.556,
+   "why": [
+    "Wrong: the model had Lens win at 38%; the actual result (away win) had 35%, a close call."
    ]
   },
   {
